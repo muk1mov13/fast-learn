@@ -1,0 +1,41 @@
+name: texnik_ijodkorlik
+description: Texnik ijodkorlik va konstruksiyalash fanini o'qitish uchun mobil o'quv ilovasi.
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_riverpod: ^2.5.1
+  go_router: ^14.2.0
+  google_fonts: ^6.2.1
+  shared_preferences: ^2.3.2
+  flutter_animate: ^4.5.0
+  video_player: ^2.9.2
+  chewie: ^1.8.5
+  archive: ^3.6.1
+  xml: ^6.5.0
+  path_provider: ^2.1.4
+  open_filex: ^4.1.0
+
+dev_dependencies:
+  flutter_lints: ^4.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/content/
+    - assets/videos/
+    - assets/materials/topic_1/amaliyot/
+    - assets/materials/topic_2/amaliyot/
+    - assets/materials/topic_3/amaliyot/
+    - assets/materials/topic_4/amaliyot/
+    - assets/materials/topic_5/amaliyot/
+    - assets/materials/topic_6/amaliyot/
+    - assets/materials/topic_7/amaliyot/
+    - assets/materials/topic_8/amaliyot/
