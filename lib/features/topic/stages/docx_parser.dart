@@ -1,4 +1,3 @@
-// lib/features/topic/stages/docx_parser.dart
 import 'dart:convert';
 import 'dart:typed_data';
 import 'package:archive/archive.dart';
@@ -30,22 +29,50 @@ class ListItemBlock extends DocxBlock {
   ListItemBlock({required this.text, required this.level});
 }
 
+class ImageBlock extends DocxBlock {
+  final Uint8List bytes;
+  ImageBlock({required this.bytes});
+}
+
 class DocxParser {
   /// Parses raw DOCX bytes (ZIP). Returns [] on any error.
   static List<DocxBlock> parse(Uint8List bytes) {
     try {
       final archive = ZipDecoder().decodeBytes(bytes);
+      final rels = _parseRels(archive);
       final file = archive.findFile('word/document.xml');
       if (file == null) return [];
       final xmlStr = utf8.decode(file.content as List<int>);
-      return parseXml(xmlStr);
+      return _parseXml(xmlStr, archive, rels);
     } catch (_) {
       return [];
     }
   }
 
-  /// Parses the content of word/document.xml. Public for unit testing.
-  static List<DocxBlock> parseXml(String xml) {
+  /// Parses word/_rels/document.xml.rels → {rId: 'media/imageN.png'}
+  static Map<String, String> _parseRels(Archive archive) {
+    final rels = <String, String>{};
+    final relsFile = archive.findFile('word/_rels/document.xml.rels');
+    if (relsFile == null) return rels;
+    try {
+      final xml = utf8.decode(relsFile.content as List<int>);
+      final doc = XmlDocument.parse(xml);
+      for (final el in doc.descendants.whereType<XmlElement>()) {
+        if (el.localName == 'Relationship') {
+          final id = el.getAttribute('Id');
+          final target = el.getAttribute('Target');
+          final type = el.getAttribute('Type') ?? '';
+          if (id != null && target != null && type.contains('image')) {
+            rels[id] = target;
+          }
+        }
+      }
+    } catch (_) {}
+    return rels;
+  }
+
+  static List<DocxBlock> _parseXml(
+      String xml, Archive archive, Map<String, String> rels) {
     try {
       final doc = XmlDocument.parse(xml);
       final body = doc.descendants
@@ -54,6 +81,11 @@ class DocxParser {
 
       final blocks = <DocxBlock>[];
       for (final para in body.childElements.where((e) => e.localName == 'p')) {
+        final imgBlock = _extractImage(para, archive, rels);
+        if (imgBlock != null) {
+          blocks.add(imgBlock);
+          continue;
+        }
         final block = _parseParagraph(para);
         if (block != null) blocks.add(block);
       }
@@ -61,6 +93,38 @@ class DocxParser {
     } catch (_) {
       return [];
     }
+  }
+
+  /// Looks for a <w:drawing> → <a:blip r:embed="rIdN"/> in the paragraph.
+  static ImageBlock? _extractImage(
+      XmlElement p, Archive archive, Map<String, String> rels) {
+    // Find any blip descendant with an embed attribute
+    for (final el in p.descendants.whereType<XmlElement>()) {
+      if (el.localName == 'blip') {
+        final rId = el.attributes
+            .where((a) => a.localName == 'embed')
+            .map((a) => a.value)
+            .firstOrNull;
+        if (rId == null) continue;
+        final target = rels[rId];
+        if (target == null) continue;
+        // target is relative to word/ folder, e.g. "media/image1.png"
+        final path = target.startsWith('..') ? target.replaceFirst('..', '') : 'word/$target';
+        final imgFile = archive.findFile(path) ??
+            archive.findFile('word/$target') ??
+            archive.findFile(target);
+        if (imgFile != null) {
+          final imgBytes = Uint8List.fromList(imgFile.content as List<int>);
+          return ImageBlock(bytes: imgBytes);
+        }
+      }
+    }
+    return null;
+  }
+
+  /// Parses the content of word/document.xml. Public for unit testing.
+  static List<DocxBlock> parseXml(String xml) {
+    return _parseXml(xml, Archive(), {});
   }
 
   static DocxBlock? _parseParagraph(XmlElement p) {
@@ -100,7 +164,9 @@ class DocxParser {
   static bool _isHeading(String val) {
     if (val.isEmpty) return false;
     if (RegExp(r'^[1-6]$').hasMatch(val)) return true;
-    if (RegExp(r'heading\s*[1-6]', caseSensitive: false).hasMatch(val)) return true;
+    if (RegExp(r'heading\s*[1-6]', caseSensitive: false).hasMatch(val)) {
+      return true;
+    }
     return false;
   }
 

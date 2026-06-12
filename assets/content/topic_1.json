@@ -1,0 +1,299 @@
+﻿{
+    "id":  1,
+    "order":  1,
+    "title":  "Texnik ijodkorlik va fanining mohiyati va vazifalari",
+    "isUnlocked":  true,
+    "video":  {
+                  "title":  "Mavzuga kirish videosi",
+                  "duration":  "",
+                  "youtubeId":  "Shz4lIovRGQ"
+              },
+    "lesson":  {
+                   "title":  "Ma\u0027ruza matni",
+                   "bodyMarkdown":  "Bugungi kunda ilm-fan, texnologiya va ishlab chiqarish sohalarida ro\u0027y berayotgan tub o\u0027zgarishlar insoniyat taraqqiyotining yangi bosqichiga zamin yaratmoqda. Bu jarayonda texnik ijodkorlik alohida o\u0027rin egallaydi, chunki u nafaqat yangi texnik yechimlarni yaratish, balki mavjud texnologiyalarni takomillashtirish orqali jamiyat ehtiyojlarini yanada samaraliroq qondirish imkonini beradi.\n\nTexnik ijodkorlik — mavjud texnik yechimlarni yaxshilash, yangi texnika yoki texnologiyalarni yaratish yoki ilmiy bilimlarni amaliyotga tatbiq etish orqali yangi qiymat hosil qilish jarayonidir. Uning asosiy turlari: ixtiro (umuman yangi texnika yaratish), rasionalizatorlik taklifi (mavjud tizimni samaraliroq qilish), konstruksiyalash va dizayn, texnologik ijodkorlik.\n\nTexnik tafakkur — bu insonning texnik hodisalar, qurilmalar, jarayonlar va tizimlarni anglash, ularni tahlil qilish, takomillashtirish hamda yangi texnik yechimlar yaratish qobiliyatidir. Texnik tafakkurning asosiy xususiyatlari: mantiqiylik (izchil tahlil), tizimlilik (butun tizimni ko\u0027ra bilish), ijodiylik (noodatiy yechimlar), amaliy yo\u0027naltirilganlik (nazariyani hayotga tadbiq etish).\n\nFan nazariy bilimlarni ishlab chiqadi, texnik ijodkorlik esa bu bilimlarni amaliyotga tatbiq etadi. Bu ikki jarayon o\u0027zaro bog\u0027liq: fizika qonunlarisiz yangi elektr uskuna yaratilmaydi; kimyo asoslarisiz yangi material ixtiro qilib bo\u0027lmaydi; informatika va dasturlashsiz avtomatlashtirilgan tizimlar yaratilmaydi.\n\nBozor munosabatlari sharoitida ijodiy faoliyat: Zamonaviy raqobatbardosh iqtisodiyotda muvaffaqiyat innovatsion fikrlaydigan inson resurslariga tayanadi. Raqobatda ustunlikka erishish uchun korxonalar yangi texnologiyalarni joriy etish, mahsulot sifati va dizaynini takomillashtirish, ishlab chiqarish xarajatlarini kamaytirish kabi ijodiy yondashuvlardan foydalanadi. O\u0027zbekiston Respublikasida ham yoshlarning texnik tafakkurini shakllantirish, ularni ixtirochilikka yo\u0027naltirish va innovatsion muhitni kengaytirish borasida qator islohotlar amalga oshirilmoqda.\n\nO\u0027quvchilar texnik ijodkorligining pedagogik va psixologik xususiyatlari: Pedagogik nuqtai nazardan, texnik ijodkorlik — bu o\u0027qituvchi rahbarligida o\u0027quvchilarda yangi texnik g\u0027oyalar, modellar va tizimlar yaratish faoliyatidir. O\u0027qituvchi yo\u0027naltiruvchi va motivator sifatida: texnik tafakkur shakllantiradi, amaliy topshiriqlar orqali bilimlarni mustahkamlaydi, mustaqil yechim izlash ko\u0027nikmalarini rivojlantiradi. Psixologik omillar: qiziqish va motivatsiya, tasavvur hamda ijodiy tafakkur, emotsional barqarorlik, shaxsiy faollik va irodaviy sifatlar — bularning barchasi o\u0027quvchining ijodiy muvaffaqiyatiga bevosita ta\u0027sir ko\u0027rsatadi.",
+                   "slideTitles":  [
+                                       "Kirish",
+                                       "Bozor munosabatlari sharoitida ijodiy faoliyatning ahamiyati",
+                                       "O`quvchilar texnik ijodkorligining pedagogik va psixologik",
+                                       "xususiyatlari"
+                                   ]
+               },
+    "glossary":  [
+                     {
+                         "term":  "Texnik ijodkorlik",
+                         "definition":  "Yangi texnik yechimlar, qurilmalar, modellar va texnologiyalar yaratish jarayoni bo\u0027lib, o\u0027quvchilarning texnik tafakkuri, kuzatuvchanligi va muammoni hal qilish ko\u0027nikmalarini rivojlantiradi."
+                     },
+                     {
+                         "term":  "Ijodkorlik",
+                         "definition":  "Shaxsning yangi g\u0027oya, yangicha yondashuv va noodatiy yechimlar yaratishga qaratilgan intellektual faoliyati."
+                     },
+                     {
+                         "term":  "Bozor munosabatlari",
+                         "definition":  "Ishlab chiqarish va iste\u0027mol jarayonlarini talab va taklif asosida tartibga soluvchi iqtisodiy tizim."
+                     },
+                     {
+                         "term":  "Innovatsiya",
+                         "definition":  "Yangi texnologiya, uslub, mahsulot yoki jarayonni yaratish yoki mavjudini takomillashtirish."
+                     },
+                     {
+                         "term":  "Konstruksiyalash",
+                         "definition":  "Texnik buyumlarning tuzilishi, shakli, materiallari va ishlash printsipini belgilashga qaratilgan loyihalash jarayoni."
+                     },
+                     {
+                         "term":  "Modellash",
+                         "definition":  "Asl obyektning soddalashtirilgan nusxasini yaratish va uning xususiyatlarini tahlil qilish usuli."
+                     },
+                     {
+                         "term":  "Motivatsiya",
+                         "definition":  "Ijodiy faoliyatga undovchi ichki ehtiyoj, qiziqish va tashqi rag\u0027batlar majmui."
+                     },
+                     {
+                         "term":  "Kognitiv jarayonlar",
+                         "definition":  "Bilish faoliyati jarayonlari: diqqat, idrok, xotira, tafakkur va tasavvur."
+                     },
+                     {
+                         "term":  "Psixologik xususiyatlar",
+                         "definition":  "O\u0027quvchilarning qiziqishlari, qobiliyatlari, temperamentlari va ijodiy faoliyatga bo\u0027lgan munosabatini ifodalovchi individual jihatlar."
+                     },
+                     {
+                         "term":  "Texnik tafakkur",
+                         "definition":  "Buyumning tuzilishi, ishlash mexanizmini tushunish va uni takomillashtirish bo\u0027yicha fikrlash faoliyati."
+                     },
+                     {
+                         "term":  "Ixtiro",
+                         "definition":  "Butunlay yangi texnik yechim taklifi yoki mavjud texnologiyani sifat jihatidan yangicha o\u0027zgartirish."
+                     },
+                     {
+                         "term":  "Rasionalizatorlik taklifi",
+                         "definition":  "Mavjud texnik jarayon yoki mahsulotni takomillashtirishga qaratilgan amaliy taklif."
+                     },
+                     {
+                         "term":  "Loyihalash",
+                         "definition":  "Muammoni yechishga qaratilgan texnik, chizmachilik va konstruktorlik hujjatlarini ishlab chiqish."
+                     },
+                     {
+                         "term":  "Texnologik tafakkur",
+                         "definition":  "Ishlab chiqarish jarayonlari, material xossalari va texnologik operatsiyalarni tizimli tahlil qilish qobiliyati."
+                     },
+                     {
+                         "term":  "Ergonomika",
+                         "definition":  "Insonning texnik muhitda qulay, xavfsiz va samarali faoliyat yuritishini ta\u0027minlovchi ilmiy yo\u0027nalish."
+                     },
+                     {
+                         "term":  "Dizayn",
+                         "definition":  "Mahsulotning estetik, funksional va konstruktiv yechimini ishlab chiqishga yo\u0027naltirilgan ijodiy jarayon."
+                     },
+                     {
+                         "term":  "Fan va texnika integratsiyasi",
+                         "definition":  "Tabiiy fanlar, texnologiya va muhandislik bilimlarining o\u0027zaro bog\u0027lanishda qo\u0027llanishi."
+                     },
+                     {
+                         "term":  "Innovatsion kompetensiya",
+                         "definition":  "Yangi texnologiyalarni qabul qilish, moslashish, yaratish va amalda qo\u0027llay olish qobiliyati."
+                     },
+                     {
+                         "term":  "Texnik kompetentlik",
+                         "definition":  "O\u0027quvchilarning texnik obyektlar, uning mexanizmlari, ishlash prinsiplari bo\u0027yicha tushunchasi va amaliy ko\u0027nikmalari."
+                     }
+                 ],
+    "crossword":  [
+                      {
+                          "orientation":  "Gorizontal",
+                          "clue":  "Jamiyat taraqqiyotini tezlashtiruvchi jarayon. (11)",
+                          "answer":  "RIVOJLANISH"
+                      },
+                      {
+                          "orientation":  "Vertikal",
+                          "clue":  "Yangilik yaratishga qaratilgan faoliyat. (11)",
+                          "answer":  "INNOVATSIYA"
+                      },
+                      {
+                          "orientation":  "Vertikal",
+                          "clue":  "Ishlab chiqarish samaradorligini oshiruvchi yangi usullar. (11)",
+                          "answer":  "TEXNOLOGIYA"
+                      },
+                      {
+                          "orientation":  "Vertikal",
+                          "clue":  "Texnik ijodkorlik barqarorligini ta\u0027minlovchi soha. (11)",
+                          "answer":  "IQTISODIYOT"
+                      },
+                      {
+                          "orientation":  "Vertikal",
+                          "clue":  "Inson faoliyatining barcha jabhalarida ko\u0027rinadigan mohiyat. (10)",
+                          "answer":  "IJODKORLIK"
+                      },
+                      {
+                          "orientation":  "Gorizontal",
+                          "clue":  "\"Ilm, ta\u0027lim va raqamli iqtisodiyotni rivojlantirish _____\", yoshlarning ixtirochilik faoliyatini qo\u0027llab-quvvatlovchi hujjat. (10)",
+                          "answer":  "KONSEPSIYA"
+                      },
+                      {
+                          "orientation":  "Gorizontal",
+                          "clue":  "Innovatsion rivojlanish uchun belgilangan uzoq muddatli reja. (10)",
+                          "answer":  "STRATEGIYA"
+                      },
+                      {
+                          "orientation":  "Vertikal",
+                          "clue":  "Global miqyosda tajriba almashish va yangi texnologiyalar yaratish kaliti. (9)",
+                          "answer":  "HAMKORLIK"
+                      },
+                      {
+                          "orientation":  "Gorizontal",
+                          "clue":  "Texnik ijodkorlik rivojlantiradigan fikrlash usuli. (8)",
+                          "answer":  "TAFAKKUR"
+                      },
+                      {
+                          "orientation":  "Gorizontal",
+                          "clue":  "G\u0027oyalarni hayotga tatbiq etish jarayoni. (8)",
+                          "answer":  "AMALIYOT"
+                      },
+                      {
+                          "orientation":  "Gorizontal",
+                          "clue":  "Energiyani tejaydigan yoki maishiy muammolarni hal etuvchi vosita. (7)",
+                          "answer":  "QURILMA"
+                      },
+                      {
+                          "orientation":  "Vertikal",
+                          "clue":  "Texnik ijodkorlik taraqqiyotining muhim katalizatori. (7)",
+                          "answer":  "JAMIYAT"
+                      },
+                      {
+                          "orientation":  "Gorizontal",
+                          "clue":  "Texnik ijodkorlikni rivojlantirishga katta e\u0027tibor qaratilayotgan tizim. (6)",
+                          "answer":  "TA\u0027LIM"
+                      }
+                  ],
+    "questions":  [
+                      "Texnik ijodkorlik deganda nimani tushunasiz?",
+                      "O\u0027quvchilarda texnik ijodkorlikni shakllantirishning asosiy maqsadi nimadan iborat?",
+                      "Innovatsion ta\u0027lim texnologiyalarining texnik ijodkorlikni rivojlantirishdagi roli qanday?",
+                      "\"Ijodkorlik\" va \"innovatsiya\" tushunchalari o\u0027rtasida qanday farq bor?",
+                      "Texnik ijodkorlikni rivojlantirishda o\u0027qituvchining yetakchi roli nimada?"
+                  ],
+    "practical":  {
+                      "task":  "Avtomobilni loyihalashni o\u0027rganish: avtomobilning tarixiy rivojlanishini (Kyunyo 1769, Bens 1885, Daymler 1886, GM-Uzbekiston 1996) va asosiy konstruktiv qismlari — dvigatel, transmissiya, yurish qismi, boshqaruv mexanizmi, elektr jihozlari, kuzov — ni o\u0027rganing. So\u0027ngra avtomobilning umumiy tuzilishi sxemasini chizing yoki Tinkercad/FreeCAD dasturida oddiy 3D modelini yarating.",
+                      "requirement":  "Avtomobilning har bir asosiy qismini (dvigatel, transmissiya, yurish qismi, boshqaruv mexanizmi) vazifasi bilan birga tahlil qiling. O\u0027zbekiston iqlim, yo\u0027l va iqtisodiy sharoitlariga mos keluvchi avtomobil yaratish uchun qanday talablar qo\u0027yilishini asoslab bering. Chizma yoki model yarating."
+                  },
+    "test":  [
+                 {
+                     "question":  "Texnik ijodkorlikning asosiy maqsadi nimadan iborat?",
+                     "options":  [
+                                     "O\u0027quvchilarda nazariy bilimlarni kuchaytirish",
+                                     "O\u0027quvchilarni mustaqil texnik yechim topishga o\u0027rgatish",
+                                     "Yodlash ko\u0027nikmalarini rivojlantirish",
+                                     "Faqat amaliy ishlarni bajarishga yo\u0027naltirish"
+                                 ],
+                     "correctIndex":  1
+                 },
+                 {
+                     "question":  "Texnik tafakkur qanday faoliyat turiga kiradi?",
+                     "options":  [
+                                     "Estetik tafakkur",
+                                     "Mantiqiy va ijodiy tafakkur",
+                                     "Fikr-mulohaza",
+                                     "Ong osti jarayoni"
+                                 ],
+                     "correctIndex":  1
+                 },
+                 {
+                     "question":  "Texnik ijodkorlikni rivojlantirishda o\u0027qituvchining roli nimada?",
+                     "options":  [
+                                     "Faqat nazorat qilishda",
+                                     "Texnik loyihalarni tanqid qilishda",
+                                     "Yaratilayotgan g\u0027oyalarni yo\u0027naltirish va rag\u0027batlantirishda",
+                                     "O\u0027quvchilarning xatolarini topishda"
+                                 ],
+                     "correctIndex":  2
+                 },
+                 {
+                     "question":  "Texnik tafakkurning asosiy belgilaridan biri qaysi?",
+                     "options":  [
+                                     "Tasavvur va xotira",
+                                     "Mantiqiylik va tizimlilik",
+                                     "Eslab qolish",
+                                     "Yozma nutq"
+                                 ],
+                     "correctIndex":  1
+                 },
+                 {
+                     "question":  "Psixologik nuqtayi nazardan texnik ijodkorlik nimaga asoslanadi?",
+                     "options":  [
+                                     "Ijodiy tafakkur va motivatsiyaga",
+                                     "Shunchaki bilimga",
+                                     "Jismoniy faoliyatga",
+                                     "E\u0027tiborni jamlashga"
+                                 ],
+                     "correctIndex":  0
+                 },
+                 {
+                     "question":  "Texnik ijodkorlikni rivojlantirishda qanday metodlar samarali?",
+                     "options":  [
+                                     "Leksion va diktant",
+                                     "Muammoli vaziyat yaratish va loyihaviy ish",
+                                     "Faqat nazorat testlari",
+                                     "O\u0027qituvchi monologi"
+                                 ],
+                     "correctIndex":  1
+                 },
+                 {
+                     "question":  "O\u0027quvchilarda texnik fikrlashni rivojlantirish uchun nima zarur?",
+                     "options":  [
+                                     "Ko\u0027p test ishlash",
+                                     "Tajriba, kuzatish va modellashtirish",
+                                     "Yodlash",
+                                     "Reja tuzish"
+                                 ],
+                     "correctIndex":  1
+                 },
+                 {
+                     "question":  "Innovatsion yondashuv deganda nimani tushunamiz?",
+                     "options":  [
+                                     "An\u0027anaviy metodlarni to\u0027liq bekor qilish",
+                                     "Yangi texnologiyalarni ta\u0027lim jarayoniga tatbiq etish",
+                                     "Faqat kompyuterdan foydalanish",
+                                     "Nazariy darslarni kamaytirish"
+                                 ],
+                     "correctIndex":  1
+                 },
+                 {
+                     "question":  "O\u0027quvchilar texnik ijodkorlikka qiziqishini oshirish uchun nima muhim?",
+                     "options":  [
+                                     "Rag\u0027bat, sharoit va mustaqillik",
+                                     "Qattiq intizom",
+                                     "Nazoratning ko\u0027pligi",
+                                     "Faqat baholash tizimi"
+                                 ],
+                     "correctIndex":  0
+                 },
+                 {
+                     "question":  "Texnik ijodkorlikning psixologik jihati nimani anglatadi?",
+                     "options":  [
+                                     "Insonning texnik bilimlarini yodlab olish qobiliyati",
+                                     "Texnik faoliyatda ijodiy fikrlash, motivatsiya va hissiy qoniqish",
+                                     "Texnik fanlarga bo\u0027lgan befarqlik",
+                                     "Amaliy mashg\u0027ulotlarni o\u0027tkazish"
+                                 ],
+                     "correctIndex":  1
+                 }
+             ],
+    "resources":  [
+                      {
+                          "title":  "1-mavzu taqdimot slaydlari",
+                          "type":  "article",
+                          "description":  "Texnik ijodkorlik mohiyati, turlari, pedagogik va psixologik xususiyatlari bo\u0027yicha ma\u0027ruza slaydlari to\u0027plami.",
+                          "url":  "assets/materials/topic_1/resurs/1_resurs.pptx"
+                      },
+                      {
+                          "title":  "Texnik ijodkorlik va konstruksiyalash",
+                          "type":  "book",
+                          "description":  "O\u0027quv qo\u0027llanma: texnik ijodkorlikning ilmiy-pedagogik asoslari, innovatsion rivojlanish va ta\u0027lim tizimidagi o\u0027rni.",
+                          "url":  ""
+                      },
+                      {
+                          "title":  "STEAM ta\u0027lim yondashuvi",
+                          "type":  "article",
+                          "description":  "Fan, texnologiya, muhandislik, san\u0027at va matematikani birlashtirgan innovatsion ta\u0027lim usuli — texnik tafakkurni rivojlantirish asosi.",
+                          "url":  ""
+                      }
+                  ]
+}

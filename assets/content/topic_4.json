@@ -1,0 +1,286 @@
+﻿{
+    "id":  4,
+    "order":  4,
+    "title":  "O\u0027zbekiston Respublikasining intellektual mulk agentligi. Sanoat mulki ob\u0027yektlari. Sanoat namunasi patenti",
+    "isUnlocked":  false,
+    "video":  {
+                  "title":  "Mavzuga kirish videosi",
+                  "duration":  "",
+                  "youtubeId":  "YGGZPnfkNN8"
+              },
+    "lesson":  {
+                   "title":  "Ma\u0027ruza matni",
+                   "bodyMarkdown":  "4-MAVZU: O\u0027zbekiston Respublikasining intellektual mulk agentligi. Sanoat mulki ob\u0027yektlari. Sanoat namunasi patenti.\n\nReja:\n1. Sanoat namunalarining huquqiy muhofazasi\n2. Sanoat namunasining xalqaro klassifikatsiyasi bo\u0027yicha xalqaro bitimlar\n3. Foydali model ob\u0027yektlari muhofazasi. Foydali model patenti\n4. O\u0027zbekiston Respublikasi va chet ellarda foydali modellarni muhofaza qilish\n\nSanoat mulki ob\u0027yektlari\n\nSanoat mulki ob\u0027yektlari — texnika, texnologiya, ishlab chiqarish va xizmat ko\u0027rsatish sohalarida yaratiladigan, yangilikka ega bo\u0027lgan, amalda qo\u0027llanilishi mumkin bo\u0027lgan, huquqiy himoya oladigan ijodiy natijalardir. Asosiy turlar:\n\n— Ixtiro — yangi texnik yechim (mahsulot yoki usul). Himoya muddati: 20 yil.\n— Foydali model — konstruktiv yechimning takomillashtirilgan varianti. Muddati: 10 yil.\n— Sanoat namunasi — buyumning tashqi ko\u0027rinishi (dizayn). Muddati: 10 yil (5 yilga uzaytiriladi).\n— Tovar belgisi — mahsulotni farqlash belgisi (logo, nom). Muddati: 10 yil (cheksiz uzaytiriladi).\n— Geografik ko\u0027rsatkich — mahsulotning geografik kelib chiqishi.\n— Seleksiya yutuqlari — yangi o\u0027simlik navi yoki hayvon zoti. Muddati: o\u0027simlik 25 yil, hayvon 30 yil.\n\nSanoat namunasi — tushuncha va xususiyatlari\n\nSanoat namunasi — buyumning tashqi ko\u0027rinishi, shakli, bezagi, fakturasi, konfiguratsiyasi yoki ularning kombinatsiyasini ifodalovchi badiiy-konstruktorlik yechimidir. U mahsulotga estetik va ergonomik ko\u0027rinish beradi.\n\nAsosiy talablar: yangilik (dunyoda ilgari ma\u0027lum bo\u0027lmagan), o\u0027ziga xoslik (boshqa namunadan sezilarli farq), sanoatda qo\u0027llanilishi (zavodda ishlab chiqarish mumkin). Texnik funksiya (ichki mexanizm) sanoat namunasi himoyasiga kirmaydi — bu ixtiro hisoblanadi.\n\nSanoat namunasini patentlash bosqichlari (O\u0027zR IMA orqali):\n1. Analoglarni qidirish (IMA bazasi, WIPO Global Design Database)\n2. Ariza topshirish — ariza formasi, tavsif, grafik materiallar (chizmalar, fotosuratlar), davlat boji\n3. Rasmiy ekspertiza (1–2 oy) — hujjatlar to\u0027g\u0027riligini tekshirish\n4. Mohiyat ekspertizasi (6–12 oy) — yangilik, o\u0027ziga xoslik baholanadi\n5. Patent berish — 10 yil muddatga (qo\u0027shimcha 5 yilga uzaytirish mumkin)\n\nFoydali model\n\nFoydali model — yangi texnik yechimning amaliy va soddalashtirilgan varianti bo\u0027lib, mahsulotning ishlash printsipi, konstruktsiyasi yoki tuzilishi bilan bog\u0027liq. Ixtiroga qaraganda yangilik talabi osonroq, tez patentlanadi (3–6 oy ekspertiza). Patent muddati — 10 yil.\n\nPatent egasining huquqlari: dizayn yoki texnik yechimdan boshqalarning ruxsatsiz foydalanishini taqiqlash; litsenziya yoki franchayzing orqali daromad olish; sud orqali himoya.\n\nXalqaro tizimlar: Parij konvensiyasi (ixtirolar, foydali modellar, tovar belgilarini himoya), Hague tizimi (sanoat namunalari uchun xalqaro ro\u0027yxat — bir ariza orqali ko\u0027p mamlakatda himoya), PCT (ixtirolar bo\u0027yicha xalqaro patent arizalari).",
+                   "slideTitles":  [
+                                       "Sanoat namunalarining huquqiy muhofazasi",
+                                       "Foydali model ob\u0027yektlari muhofazasi. Foydali model patenti"
+                                   ]
+               },
+    "glossary":  [
+                     {
+                         "term":  "Intellektual mulk (Intellectual property)",
+                         "definition":  "Inson aqliy faoliyati natijasida yaratilgan barcha huquqiy ob\u0027yektlar majmui."
+                     },
+                     {
+                         "term":  "O\u0027zbekiston intellektual mulk agentligi (IP Agency of Uzbekistan)",
+                         "definition":  "Patentlar, foydali modellar, sanoat namunalari va tovar belgilarini ro\u0027yxatdan o\u0027tkazish va himoya qilish bilan shug\u0027ullanuvchi rasmiy davlat organi."
+                     },
+                     {
+                         "term":  "Sanoat mulki (Industrial property)",
+                         "definition":  "Ixtirolar, foydali modellar, dizaynlar va tovar belgilarini o\u0027z ichiga oluvchi intellektual mulk ob\u0027yektlari."
+                     },
+                     {
+                         "term":  "Sanoat namunalari (Industrial designs)",
+                         "definition":  "Mahsulotning tashqi ko\u0027rinishi, shakli, chizmalar, kontur va rang kombinatsiyasi."
+                     },
+                     {
+                         "term":  "Sanoat namunasining patenti (Industrial design patent)",
+                         "definition":  "Sanoat namunasining egasiga eksklyuziv huquq beruvchi rasmiy hujjat."
+                     },
+                     {
+                         "term":  "Sanoat namunalari huquqiy muhofazasi (Legal protection of industrial designs)",
+                         "definition":  "Patent orqali sanoat namunasini ruxsatsiz nusxalash, sotish yoki tarqatishdan himoya qilish tartibi."
+                     },
+                     {
+                         "term":  "Xalqaro klassifikatsiya (International classification)",
+                         "definition":  "Sanoat namunalari ob\u0027yektlarini xalqaro miqyosda yagona tizim asosida tasniflash."
+                     },
+                     {
+                         "term":  "Xalqaro bitimlar (International treaties)",
+                         "definition":  "Sanoat namunalari va boshqa intellektual mulk ob\u0027yektlarini xalqaro miqyosda himoya qilishni tartibga soluvchi huquqiy hujjatlar."
+                     },
+                     {
+                         "term":  "Parij konvensiyasi (Paris Convention)",
+                         "definition":  "Ixtirolar, foydali modellar, sanoat namunalari va tovar belgilarini himoya qilish bo\u0027yicha xalqaro bitim."
+                     },
+                     {
+                         "term":  "Hague tizimi (Hague System)",
+                         "definition":  "Sanoat namunalari uchun xalqaro ro\u0027yxatdan o\u0027tkazish tizimi — bir ariza orqali bir nechta mamlakatda himoya olish imkonini beradi."
+                     },
+                     {
+                         "term":  "Patent Cooperation Treaty (PCT)",
+                         "definition":  "Ixtirolar va sanoat namunalari bo\u0027yicha xalqaro patent arizalarini topshirish tizimi."
+                     },
+                     {
+                         "term":  "Foydali model (Utility model)",
+                         "definition":  "Yangi texnik yechimning amaliy va soddalashtirilgan varianti."
+                     },
+                     {
+                         "term":  "Foydali model ob\u0027yektlarini muhofaza qilish (Protection of utility models)",
+                         "definition":  "Foydali model egasini ruxsatsiz foydalanishdan himoya qilish tartibi."
+                     },
+                     {
+                         "term":  "Foydali model patenti (Utility model patent)",
+                         "definition":  "Foydali model egasiga eksklyuziv huquq beruvchi rasmiy hujjat."
+                     },
+                     {
+                         "term":  "Eksklyuziv huquq (Exclusive right)",
+                         "definition":  "Huquq egasiga o\u0027z ob\u0027yektidan boshqalardan ruxsatsiz foydalanishni taqiqlash huquqi."
+                     },
+                     {
+                         "term":  "Ro\u0027yxatdan o\u0027tkazish (Registration)",
+                         "definition":  "Patent, foydali model yoki sanoat namunasini rasmiy tarzda qayd etish jarayoni."
+                     },
+                     {
+                         "term":  "Ekspertiza (Examination)",
+                         "definition":  "Patent berishdan oldin ixtiro, foydali model yoki sanoat namunasining yangiligi, ixtiyoriyligi va amaliy qo\u0027llanilishini tekshirish jarayoni."
+                     },
+                     {
+                         "term":  "Litsenziya (License)",
+                         "definition":  "Sanoat mulki ob\u0027yektidan boshqa shaxslar foydalanishi uchun berilgan huquq."
+                     },
+                     {
+                         "term":  "Huquqni buzish (Infringement)",
+                         "definition":  "Ruxsatsiz foydalanish, nusxalash yoki tarqatish orqali sanoat mulki egasining huquqlarini buzish."
+                     },
+                     {
+                         "term":  "Himoya muddati (Term of protection)",
+                         "definition":  "Patent, foydali model yoki dizayn uchun qonunda belgilangan muddat davomida huquqiy himoya ta\u0027minlanadigan vaqt."
+                     }
+                 ],
+    "crossword":  [
+                      {
+                          "orientation":  "Gorizontal",
+                          "clue":  "Arizani ko\u0027rib chiqish va obyektning talablarga javob berishini tekshirish jarayoni. (10)",
+                          "answer":  "EKSPERTIZA"
+                      },
+                      {
+                          "orientation":  "Vertikal",
+                          "clue":  "O\u0027zbekistonda intellektual mulk sohasini boshqaruvchi davlat tashkiloti (O\u0027zR IMA). (8)",
+                          "answer":  "AGENTLIK"
+                      },
+                      {
+                          "orientation":  "Vertikal",
+                          "clue":  "Sanoat namunasi uchun talab qilinadigan asosiy mezonlardan biri, avval ma\u0027lum bo\u0027lmagan xususiyat. (8)",
+                          "answer":  "YANGILIK"
+                      },
+                      {
+                          "orientation":  "Vertikal",
+                          "clue":  "Mahsulotni farqlash uchun qo\u0027llaniladigan so\u0027z, tasvir yoki shakl (masalan, tovar ...). (7)",
+                          "answer":  "BELGISI"
+                      },
+                      {
+                          "orientation":  "Vertikal",
+                          "clue":  "Ixtiro, foydali model, sanoat namunasi kiradigan mulk turi. (6)",
+                          "answer":  "SANOAT"
+                      },
+                      {
+                          "orientation":  "Gorizontal",
+                          "clue":  "Mahsulotning tashqi ko\u0027rinishi, shakli yoki bezagini himoyalovchi obyekt. (6)",
+                          "answer":  "NAMUNA"
+                      },
+                      {
+                          "orientation":  "Gorizontal",
+                          "clue":  "Sanoat namunasining asosiy maqsadi bo\u0027lgan badiiy-konstruktorlik yechim. (6)",
+                          "answer":  "DIZAYN"
+                      },
+                      {
+                          "orientation":  "Vertikal",
+                          "clue":  "Ixtiro yoki sanoat namunasiga beriladigan himoya hujjati. (6)",
+                          "answer":  "PATENT"
+                      },
+                      {
+                          "orientation":  "Vertikal",
+                          "clue":  "Mahsulot yoki xizmatni boshqalardan farqlashga xizmat qiluvchi belgi. (5)",
+                          "answer":  "TOVAR"
+                      },
+                      {
+                          "orientation":  "Gorizontal",
+                          "clue":  "Intellektual mulkni ro\u0027yxatdan o\u0027tkazish uchun to\u0027lanadigan davlat to\u0027lovi. (3)",
+                          "answer":  "BOJ"
+                      }
+                  ],
+    "questions":  [
+                      "Sanoat namunasining tushunchasi va uning intellektual mulk tizimidagi o\u0027rni qanday izohlanadi?",
+                      "Sanoat namunasini patentlash uchun qanday asosiy talablar mavjud va ular nimaga xizmat qiladi?",
+                      "Sanoat namunasiga patent berish tartibi qanday bosqichlardan iborat?",
+                      "Sanoat namunalari bo\u0027yicha patent egasining huquqlari va ularning amaliy ahamiyati nimadan iborat?",
+                      "Foydali model nima va u ixtirodan qanday farq qiladi?"
+                  ],
+    "practical":  {
+                      "task":  "Yog\u0027ochdan sodda biplan (ikkita qanotli samolyot) modeli yasash.\n\nSamolyot — havoda uchish uchun mo\u0027ljallangan mexanik havo transporti vositasi bo\u0027lib, dvigatel yordamida oldinga harakatlanadi va qanotlari orqali ko\u0027taruvchi kuch hosil qiladi. Biplan — ikkita qanotli klassik samolyot turi. Samolyot qismlari: fuzelyaj (tanasi), qanotlar, eleronlar (burilish uchun), quyruq (stabilizator va rul), pervanel, g\u0027ildiraklar. Bu mashg\u0027ulotda yog\u0027och materialdan biplan modeli yasaysiz.",
+                      "requirement":  "**Kerakli materiallar:** Yumshoq yog\u0027och yoki kontrplak (qalinligi 3–10 mm); yog\u0027och tayoqchalar (qanotlar orasidagi tirgaklar va o\u0027qlar uchun, d=5–8 mm); pervanel va g\u0027ildiraklar uchun tayyor doiralar; yog\u0027och elim (PVA); zımpara qog\u0027ozi; lobzik, matkap; chizg\u0027ich, qalam; akril bo\u0027yoq (ixtiyoriy); himoya vositalari: qo\u0027lqop, ko\u0027zoynak.\n\n**Topshiriq 1 — kesish:**\nChizmani yog\u0027och varaqlariga o\u0027tkaz (chop etib yopishtirib yoki qalam bilan). Lobzik yordamida qismlarni kesib ol: fuzelyaj, ikkita qanot (yuqori va pastki), quyruq, pervanel. Pervanel va g\u0027ildirak o\u0027qlari uchun teshik och.\n\n**Topshiriq 2 — yig\u0027ish:**\nQismlarni elim bilan yig\u0027 (avval fuzelyaj va pastki qanot, keyin tirgaklar, yuqori qanot, quyruq). Pervanel va g\u0027ildiraklarni erkin aylanadigan qilib mahkamla. Elim quriganidan keyin butun modelni silliqlash. Ixtiyoriy: vintage yoki harbiy rangda bo\u0027ya.\n\n**Yakuniy nazorat:** Modelni namoyish et. Muhokama: modelning muvozanati va aerodinamikasi qanday? Qaysi qismda qiyinchilik bo\u0027ldi? Uy vazifasi: modelning turli tomondan suratini ol, qisqa hisobot yoz (ish jarayoni, qiyinchiliklar, o\u0027zgartirish kiritilgan bo\u0027lsa — sababi)."
+                  },
+    "test":  [
+                 {
+                     "question":  "Sanoat namunasi tushunchasi nima?",
+                     "options":  [
+                                     "Mahsulotning texnik yechimi",
+                                     "Mahsulotning tashqi ko\u0027rinishi va dizayni",
+                                     "Faqat mahsulotning material tarkibi",
+                                     "Mahsulotni ishlab chiqarish jarayoni"
+                                 ],
+                     "correctIndex":  1
+                 },
+                 {
+                     "question":  "Sanoat namunasini patentlashning asosiy maqsadi nima?",
+                     "options":  [
+                                     "Mahsulotni arzonlashtirish",
+                                     "Mahsulotning tashqi ko\u0027rinishini huquqiy himoya qilish",
+                                     "Ishlab chiqarish texnologiyasini oshkor qilish",
+                                     "Mahsulotni eksport qilish"
+                                 ],
+                     "correctIndex":  1
+                 },
+                 {
+                     "question":  "Sanoat namunasiga patent berish muddati qancha?",
+                     "options":  [
+                                     "5 yil",
+                                     "10 yil",
+                                     "15 yil",
+                                     "20 yil"
+                                 ],
+                     "correctIndex":  1
+                 },
+                 {
+                     "question":  "Quyidagilardan qaysi biri sanoat namunasiga patent olishning talabi emas?",
+                     "options":  [
+                                     "Yangilik",
+                                     "O\u0027ziga xoslik",
+                                     "Sanoatda qo\u0027llanilishi mumkinligi",
+                                     "Mahsulot narxi"
+                                 ],
+                     "correctIndex":  3
+                 },
+                 {
+                     "question":  "Patent egasi qaysi huquqqa ega?",
+                     "options":  [
+                                     "Mahsulot dizaynini nusxalashni taqiqlash",
+                                     "Mahsulotning texnik yechimini o\u0027zgartirish",
+                                     "Ishlab chiqaruvchining ishchi haqini belgilash",
+                                     "Patentning muddati tugashini uzaytirmaslik"
+                                 ],
+                     "correctIndex":  0
+                 },
+                 {
+                     "question":  "Sanoat namunasining himoya qiluvchi elementi nima?",
+                     "options":  [
+                                     "Texnik muammo",
+                                     "Tashqi ko\u0027rinish va dizayn",
+                                     "Material tarkibi",
+                                     "Ishlab chiqarish usuli"
+                                 ],
+                     "correctIndex":  1
+                 },
+                 {
+                     "question":  "Sanoat namunasini patentlash bo\u0027yicha ariza qayerga topshiriladi?",
+                     "options":  [
+                                     "Vazirlar Mahkamasi",
+                                     "Intellektual Mulk Agentligi (O\u0027zR IMA)",
+                                     "Tashqi savdo vazirligi",
+                                     "Innovatsion rivojlanish markazi"
+                                 ],
+                     "correctIndex":  1
+                 },
+                 {
+                     "question":  "Sanoat namunalari bilan bog\u0027liq huquqbuzarlik holatida nima qilinadi?",
+                     "options":  [
+                                     "Hech narsa qilinmaydi",
+                                     "Mahsulotni qayta ishlab chiqarish",
+                                     "Sudga murojaat qilinadi va huquq himoya qilinadi",
+                                     "Patent bekor qilinadi"
+                                 ],
+                     "correctIndex":  2
+                 },
+                 {
+                     "question":  "Quyidagilardan qaysi biri sanoat namunasining xususiyatlaridan biri emas?",
+                     "options":  [
+                                     "Badiiy-konstruktorlik xarakteri",
+                                     "Iqtisodiy qiymati",
+                                     "Faqat texnik yechim",
+                                     "O\u0027ziga xoslik"
+                                 ],
+                     "correctIndex":  2
+                 },
+                 {
+                     "question":  "Sanoat namunasini himoya qilishdagi asosiy muammolardan biri nima?",
+                     "options":  [
+                                     "Patentni olish muddati juda qisqa",
+                                     "Mahsulotning texnik yechimini huquqiy himoya qilish qiyin",
+                                     "Yangilik va o\u0027ziga xoslikni aniqlashdagi qiyinchiliklar",
+                                     "Mahsulot narxi oshadi"
+                                 ],
+                     "correctIndex":  2
+                 }
+             ],
+    "resources":  [
+                      {
+                          "title":  "4-mavzu taqdimot slaydlari",
+                          "type":  "article",
+                          "description":  "Sanoat mulki ob\u0027yektlari, sanoat namunasi patenti va foydali model muhofazasi bo\u0027yicha ma\u0027ruza slaydlari.",
+                          "url":  "assets/materials/topic_4/resurs/4_resurs.pptx"
+                      },
+                      {
+                          "title":  "WIPO Global Design Database",
+                          "type":  "link",
+                          "description":  "Xalqaro sanoat namunalari bazasi — o\u0027xshash dizaynlarni qidirish va Hague tizimi haqida ma\u0027lumot.",
+                          "url":  "https://www.wipo.int/designdb"
+                      },
+                      {
+                          "title":  "O\u0027zbekiston Intellektual mulk agentligi — rasmiy sayt",
+                          "type":  "link",
+                          "description":  "Sanoat namunasi, foydali model va patent arizalarini onlayn topshirish, milliy reestir.",
+                          "url":  "https://im.adliya.uz"
+                      }
+                  ]
+}

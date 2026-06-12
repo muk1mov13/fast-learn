@@ -1,0 +1,54 @@
+rules_version = '2';
+
+// Texnik ijodkorlik ilovasi uchun Firestore xavfsizlik qoidalari.
+//
+// Asosiy prinsiplar:
+//  - Oddiy foydalanuvchi faqat O'Z hujjatini o'qiy/yoza oladi.
+//  - Admin (role == "admin") barcha foydalanuvchilarni O'QIY oladi.
+//  - Hech kim `role` maydonini o'zi o'zgartira olmaydi (admin qilish faqat
+//    Firebase Console orqali — qoidalarni chetlab o'tadi).
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    function isSignedIn() {
+      return request.auth != null;
+    }
+
+    function isOwner(uid) {
+      return isSignedIn() && request.auth.uid == uid;
+    }
+
+    function isAdmin() {
+      return isSignedIn()
+        && exists(/databases/$(database)/documents/users/$(request.auth.uid))
+        && get(/databases/$(database)/documents/users/$(request.auth.uid)).data.role == 'admin';
+    }
+
+    match /users/{uid} {
+      // O'qish: egasi yoki admin
+      allow read: if isOwner(uid) || isAdmin();
+
+      // Yaratish: faqat o'zini, va role majburan "student"
+      allow create: if isOwner(uid)
+        && request.resource.data.role == 'student';
+
+      // Yangilash: egasi, lekin role o'zgarmasligi shart
+      allow update: if isOwner(uid)
+        && request.resource.data.role == resource.data.role;
+
+      // O'chirish taqiqlanadi
+      allow delete: if false;
+
+      // Test natijalari: egasi yoza/o'qiy oladi, admin o'qiy oladi
+      match /results/{topicId} {
+        allow read: if isOwner(uid) || isAdmin();
+        allow write: if isOwner(uid);
+      }
+    }
+
+    // Qolgan barcha yo'llar taqiqlangan
+    match /{document=**} {
+      allow read, write: if false;
+    }
+  }
+}

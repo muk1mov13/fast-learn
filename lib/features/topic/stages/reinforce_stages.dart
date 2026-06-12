@@ -631,7 +631,8 @@ class _PracticalStageState extends State<PracticalStage> {
   Future<List<DocxBlock>> _loadDocx(String path) async {
     try {
       final data = await rootBundle.load(path);
-      return DocxParser.parse(data.buffer.asUint8List());
+      return DocxParser.parse(
+          data.buffer.asUint8List(data.offsetInBytes, data.lengthInBytes));
     } catch (_) {
       return [];
     }
@@ -764,6 +765,18 @@ class _DocxViewer extends StatelessWidget {
             ],
           ),
         );
+      case ImageBlock(:final bytes):
+        return Padding(
+          padding: const EdgeInsets.symmetric(vertical: 8),
+          child: ClipRRect(
+            borderRadius: BorderRadius.circular(6),
+            child: Image.memory(
+              bytes,
+              fit: BoxFit.contain,
+              errorBuilder: (_, __, ___) => const SizedBox.shrink(),
+            ),
+          ),
+        );
       default:
         return const SizedBox.shrink();
     }
@@ -882,38 +895,86 @@ class _ResourceCard extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    final hasFile = item.url.startsWith('assets/');
+    final fileName = hasFile ? item.url.split('/').last : '';
     return Padding(
       padding: const EdgeInsets.only(bottom: 10),
       child: AppCard(
-        child: Row(
+        child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
-            Container(
-              width: 42,
-              height: 42,
-              decoration: BoxDecoration(
-                color: AppColors.primary.withValues(alpha: 0.10),
-                borderRadius: BorderRadius.circular(AppRadius.sm),
-              ),
-              alignment: Alignment.center,
-              child: Icon(_typeIcon(item.type),
-                  color: AppColors.primary, size: 20),
+            Row(
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                Container(
+                  width: 42,
+                  height: 42,
+                  decoration: BoxDecoration(
+                    color: AppColors.primary.withValues(alpha: 0.10),
+                    borderRadius: BorderRadius.circular(AppRadius.sm),
+                  ),
+                  alignment: Alignment.center,
+                  child: Icon(_typeIcon(item.type),
+                      color: AppColors.primary, size: 20),
+                ),
+                const SizedBox(width: 12),
+                Expanded(
+                  child: Column(
+                    crossAxisAlignment: CrossAxisAlignment.start,
+                    children: [
+                      Text(item.title,
+                          style: Theme.of(context).textTheme.titleSmall),
+                      if (item.description.isNotEmpty) ...[
+                        const SizedBox(height: 4),
+                        Text(item.description,
+                            style: Theme.of(context).textTheme.bodySmall),
+                      ],
+                      if (hasFile) ...[
+                        const SizedBox(height: 4),
+                        Text(fileName,
+                            style: TextStyle(
+                                color: context.mutedColor, fontSize: 12)),
+                      ],
+                    ],
+                  ),
+                ),
+              ],
             ),
-            const SizedBox(width: 12),
-            Expanded(
-              child: Column(
-                crossAxisAlignment: CrossAxisAlignment.start,
+            if (hasFile) ...[
+              const SizedBox(height: 12),
+              Row(
                 children: [
-                  Text(item.title,
-                      style: Theme.of(context).textTheme.titleSmall),
-                  if (item.description.isNotEmpty) ...[
-                    const SizedBox(height: 4),
-                    Text(item.description,
-                        style: Theme.of(context).textTheme.bodySmall),
-                  ],
+                  Expanded(
+                    child: OutlinedButton.icon(
+                      onPressed: () =>
+                          downloadAsset(context, item.url, fileName),
+                      icon: const Icon(Icons.download_rounded, size: 18),
+                      label: const Text('Yuklab olish'),
+                      style: OutlinedButton.styleFrom(
+                          padding:
+                              const EdgeInsets.symmetric(vertical: 10)),
+                    ),
+                  ),
+                  const SizedBox(width: 8),
+                  Expanded(
+                    child: ElevatedButton.icon(
+                      onPressed: () =>
+                          openAsset(context, item.url, fileName),
+                      icon:
+                          const Icon(Icons.open_in_new_rounded, size: 18),
+                      label: const Text('Ochish'),
+                      style: ElevatedButton.styleFrom(
+                        backgroundColor: AppColors.primary,
+                        foregroundColor: Colors.white,
+                        padding:
+                            const EdgeInsets.symmetric(vertical: 10),
+                        elevation: 0,
+                      ),
+                    ),
+                  ),
                 ],
               ),
-            ),
+            ],
           ],
         ),
       ),

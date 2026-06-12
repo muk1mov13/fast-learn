@@ -1,0 +1,308 @@
+﻿{
+    "id":  7,
+    "order":  7,
+    "title":  "Texnik ijodkorlikni rivojlantirish metodlari",
+    "isUnlocked":  false,
+    "video":  {
+                  "title":  "Mavzuga kirish videosi",
+                  "duration":  "",
+                  "youtubeId":  "1DS_I2QZNxw"
+              },
+    "lesson":  {
+                   "title":  "Texnik ijodkorlikni rivojlantirish metodlari",
+                   "bodyMarkdown":  "Zamonaviy ta\u0027lim jarayonida o\u0027quvchilarda texnik tafakkur, muammoli vaziyatlarga yechim topish qobiliyati, ijodkorlik va amaliy ko\u0027nikmalarni rivojlantirish muhim pedagogik vazifa hisoblanadi. Texnik ijodkorlik birlashmalari ushbu maqsadlarni amalda samarali ro\u0027yobga chiqaruvchi ixtisoslashgan maydon bo\u0027lib, o\u0027quvchilarni texnika olamiga jalb etadi va ularni mustaqil ijodiy faoliyatga yo\u0027naltiradi.\n\nTo\u0027garak yo\u0027nalishini tanlashda maktab atrofidagi ishlab chiqarish korxonalarining xususiyatlari, pedagogik kadrlar salohiyati va maktabning moddiy-texnik bazasi inobatga olinadi. Agarda maktab miqyosidagi to\u0027garaklar o\u0027quvchilar ehtiyojiga mos kelmasa, rayon va shahar miqyosidagi to\u0027garaklarda ishtirok etish mumkin. To\u0027garak yillik rejasi quyidagi bo\u0027limlardan iborat: (1) umumiy qism; (2) ta\u0027lim-tarbiya ishlari; (3) metodik ishlanmalar; (4) ommaviy tadbirlar; (5) xo\u0027jalik ishlari.\n\nO\u0027quvchilarning konstruktorlik-qidiruv faoliyati muammo holatini aniqlashdan boshlanib, g\u0027oya yaratish, eskiz chizish, prototip yasash, sinov o\u0027tkazish va hujjatlashtirish bosqichlarini o\u0027z ichiga oladi. Bu jarayonda qo\u0027llaniladigan asosiy metodlar:\n— Aqliy hujum (brainstorming): tanqidsiz, erkin g\u0027oya ishlab chiqarish guruh metodi.\n— Amal va xato (trial and error): turli variantlarni sinab ko\u0027rish orqali yechim topish — oddiy mexanik qurilmalarda samarali.\n— Sinektika: begona soha analogiyalari va metaforalar yordamida yangi g\u0027oya yaratish.\n— Morfologik jadval: qurilmaning har bir funksiyasi uchun barcha mumkin bo\u0027lgan variantlarni ro\u0027yxatga olish.\n\nTexnik to\u0027garak rahbari o\u0027quvchiga to\u0027g\u0027ridan-to\u0027g\u0027ri javob berish o\u0027rniga Socratik usuldan foydalanadi — savollar orqali o\u0027quvchini o\u0027zi xulosa chiqarishga yo\u0027naltiradi. Faoliyatni baholashda yillik portfolio va kunlik ish daftaridan foydalanish eng to\u0027liq va obyektiv natija beradi.\n\nO\u0027zbekistonda yosh ixtirochilarning ishlarini patentlash uchun Davlat patent idorasiga murojaat qilinadi. 2022–2026 yillardagi davlat dasturida texnik to\u0027garaklar uchun qishloq xo\u0027jaligi dronlari, robototexnika va raqamli texnologiyalar ustuvor yo\u0027nalishlar sifatida belgilangan.",
+                   "slideTitles":  [
+                                       "O\u0027quvchilarning texnik ijodkorlik birlashmalarida ishlarni tashkil qilish mazmuni va metodi",
+                                       "Ishning yo\u0027nalishini tanlash",
+                                       "O\u0027quvchilarning konstruktorlik qidiruv faoliyatining mantig\u0027i va strukturasi"
+                                   ]
+               },
+    "glossary":  [
+                     {
+                         "term":  "Texnik ijodkorlik",
+                         "definition":  "Texnik muammolarni yangi, original usullar bilan hal qilish jarayoni."
+                     },
+                     {
+                         "term":  "Konstruktorlik-qidiruv faoliyati",
+                         "definition":  "Muammo aniqlashdan tortib ishlaydigan model va hujjatlashtirishgacha bo\u0027lgan to\u0027liq ijodiy sikl."
+                     },
+                     {
+                         "term":  "To\u0027garak",
+                         "definition":  "Maktabdan tashqari texnik ijodkorlik birlashmasining eng keng tarqalgan shakli."
+                     },
+                     {
+                         "term":  "Muammo holati",
+                         "definition":  "Konstruktorlik faoliyat boshlanadigan real hayotiy yoki texnik muammo."
+                     },
+                     {
+                         "term":  "Aqliy hujum (breynstorming)",
+                         "definition":  "Tanqidsiz, erkin g\u0027oya ishlab chiqarish guruh metodi."
+                     },
+                     {
+                         "term":  "Amal va xato (trial and error)",
+                         "definition":  "Turli variantlarni sinab ko\u0027rish orqali yechim topish usuli."
+                     },
+                     {
+                         "term":  "Sinektika",
+                         "definition":  "Begona soha analogiyalari va metaforalar yordamida yangi g\u0027oya yaratish metodi."
+                     },
+                     {
+                         "term":  "Morfologik jadval",
+                         "definition":  "Qurilmaning har bir funksiyasi uchun barcha mumkin bo\u0027lgan variantlarni ro\u0027yxatga olish usuli."
+                     },
+                     {
+                         "term":  "Prototip",
+                         "definition":  "Sinov uchun yaratilgan birinchi ishlaydigan model."
+                     },
+                     {
+                         "term":  "Ergonomika",
+                         "definition":  "Inson va texnika o\u0027rtasidagi qulaylik va xavfsizlikni ta\u0027minlash ilmi."
+                     },
+                     {
+                         "term":  "Texnologik karta",
+                         "definition":  "Model yasashning bosqichma-bosqich ko\u0027rsatmasi va operatsiyalar ro\u0027yxati."
+                     },
+                     {
+                         "term":  "Kunlik ish daftari",
+                         "definition":  "O\u0027quvchining fikr yuritish, eskiz va xulosalarini yozadigan shaxsiy hujjati."
+                     },
+                     {
+                         "term":  "Portfolio",
+                         "definition":  "O\u0027quv yili davomidagi barcha ishlar, fotosuratlar va muvaffaqiyatlar to\u0027plami."
+                     },
+                     {
+                         "term":  "Patent",
+                         "definition":  "Ixtironing yangiligi va foydaliligini davlat tomonidan tasdiqlovchi hujjat."
+                     },
+                     {
+                         "term":  "Ratsionalizatorlik taklifi",
+                         "definition":  "Mavjud texnikani yaxshilash bo\u0027yicha kichik, amaliy taklif."
+                     },
+                     {
+                         "term":  "Modellashtirish",
+                         "definition":  "Haqiqiy ob\u0027ektning kichraytirilgan yoki masshtabli nusxasini yaratish."
+                     },
+                     {
+                         "term":  "Socratik usul",
+                         "definition":  "Rahbar to\u0027g\u0027ridan javob bermay, savollar orqali o\u0027quvchini o\u0027zi xulosa chiqarishga yetaklashi."
+                     },
+                     {
+                         "term":  "Ommaviy tadbir",
+                         "definition":  "Ko\u0027rgazma, musobaqa, konferensiya — to\u0027garak faoliyatining yakuniy namoyishi."
+                     },
+                     {
+                         "term":  "Ustaxona (ustal)",
+                         "definition":  "To\u0027garakning asbob-uskuna va materiallar bilan jihozlangan ish xonasi."
+                     },
+                     {
+                         "term":  "Ilmiy jamiyat (NIT)",
+                         "definition":  "O\u0027quvchilarning ilmiy-texnik ijodkorligini muvofiqlashtiruvchi tashkilot (Respublika darajasida)."
+                     }
+                 ],
+    "crossword":  [
+                      {
+                          "orientation":  "Gorizontal",
+                          "clue":  "Korxonada yangi, tejamkor yechim taklif qiluvchi shaxs. (14)",
+                          "answer":  "RASIONALIZATOR"
+                      },
+                      {
+                          "orientation":  "Vertikal",
+                          "clue":  "Yangi g\u0027oyalarni amaliyotga tatbiq etish. (11)",
+                          "answer":  "INNOVATSIYA"
+                      },
+                      {
+                          "orientation":  "Vertikal",
+                          "clue":  "TRIZ nazariyasining muallifi, Genrix ____. (10)",
+                          "answer":  "ALTSHULLER"
+                      },
+                      {
+                          "orientation":  "Vertikal",
+                          "clue":  "2030 yilga mo\u0027ljallangan taraqqiyot rejasi. (10)",
+                          "answer":  "STRATEGIYA"
+                      },
+                      {
+                          "orientation":  "Vertikal",
+                          "clue":  "Global innovatsion indeksda 50 talikka kirishni maqsad qilgan davlat. (11)",
+                          "answer":  "O\u0027ZBEKISTON"
+                      },
+                      {
+                          "orientation":  "Vertikal",
+                          "clue":  "Ko\u0027p turli g\u0027oyalar ishlab chiqarishga qaratilgan fikrlash. (9)",
+                          "answer":  "DIVERGENT"
+                      },
+                      {
+                          "orientation":  "Vertikal",
+                          "clue":  "Tez va arzon yaratilgan ishchi model. (8)",
+                          "answer":  "PROTOTIP"
+                      },
+                      {
+                          "orientation":  "Gorizontal",
+                          "clue":  "Design Thinking ning birinchi bosqichi, foydalanuvchini tushunish. (8)",
+                          "answer":  "EMPATIYA"
+                      },
+                      {
+                          "orientation":  "Vertikal",
+                          "clue":  "Texnik ijodkorlikning asosiy ishtirokchisi. (8)",
+                          "answer":  "MUHANDIS"
+                      },
+                      {
+                          "orientation":  "Vertikal",
+                          "clue":  "Ochiq kodli elektronika platformasi. (7)",
+                          "answer":  "ARDUINO"
+                      },
+                      {
+                          "orientation":  "Vertikal",
+                          "clue":  "Ixtiro uchun beriladigan huquqiy himoya hujjati. (6)",
+                          "answer":  "PATENT"
+                      },
+                      {
+                          "orientation":  "Gorizontal",
+                          "clue":  "Yaponlarning doimiy kichik takomillashtirish falsafasi. (6)",
+                          "answer":  "KAIZEN"
+                      },
+                      {
+                          "orientation":  "Gorizontal",
+                          "clue":  "Yangi yechim yoki fikr. (5)",
+                          "answer":  "G\u0027OYA"
+                      }
+                  ],
+    "questions":  [
+                      "To\u0027garak yo\u0027nalishini tanlashda asosiy mezonlar va ularni e\u0027tiborsiz qoldirish oqibati nima?",
+                      "Konstruktorlik faoliyatda muammo aniqlash bosqichi g\u0027oya yaratishga qanday ta\u0027sir qiladi?",
+                      "12–15 yoshda \"amal va xato\" va \"aqliy hujum\"ni qachon qaysi birini qo\u0027llash afzal?",
+                      "Texnik to\u0027garakda ijodiy faoliyatni baholashning eng yaxshi usuli qaysi?",
+                      "O\u0027quvchilarning konstruktorlik qidiruv faoliyatining mantig\u0027i va struktura bosqichlari."
+                  ],
+    "practical":  {
+                      "task":  "Tinkercad dasturida sodda uy maketini loyihalash va modellashtirish",
+                      "requirement":  "Tinkercad.com saytida yangi loyiha oching. Poydevor va devorlarni Box shakllaridan yarating (poydevor: 100×80×10 mm, devorlar balandligi 60 mm). Tom (Roof), eshik va derazalarni Hole usuli bilan qo\u0027shing. Qo\u0027shimcha ijodiy elementlar (balkon, bog\u0027, mebel) ilova qiling. Barcha qismlarni guruhlang va ranglar bering. Tayyor modelni Share havolasi orqali taqdim eting. Ixtiyoriy: ekologik uy (quyosh panellari bilan) yoki ikki qavatli uy variantini yarating."
+                  },
+    "test":  [
+                 {
+                     "question":  "Texnik to\u0027garak yo\u0027nalishini tanlashda birinchi o\u0027ringa qo\u0027yiladigan mezon:",
+                     "options":  [
+                                     "Rahbarning shaxsiy qiziqishi",
+                                     "Hududning iqtisodiy-ishlab chiqarish xususiyatlari",
+                                     "Eng zamonaviy va qimmat jihozlar mavjudligi",
+                                     "Xalqaro musobaqalarda eng ko\u0027p medal olinadigan yo\u0027nalish"
+                                 ],
+                     "correctIndex":  1
+                 },
+                 {
+                     "question":  "Konstruktorlik-qidiruv faoliyatining birinchi bosqichi qaysi?",
+                     "options":  [
+                                     "Model yasash",
+                                     "Muammo holatini aniqlash",
+                                     "Aqliy hujum",
+                                     "Sinov o\u0027tkazish"
+                                 ],
+                     "correctIndex":  1
+                 },
+                 {
+                     "question":  "\"Aqliy hujum\" metodida eng muhim qoida:",
+                     "options":  [
+                                     "Tanqid qilish taqiqlanadi",
+                                     "Faqat rahbar gapiradi",
+                                     "Har bir g\u0027oya darhol hisoblanadi",
+                                     "5 daqiqada tugatiladi"
+                                 ],
+                     "correctIndex":  0
+                 },
+                 {
+                     "question":  "12–15 yoshli o\u0027quvchilar uchun \"amal va xato\" metodini qachon ishlatish afzal?",
+                     "options":  [
+                                     "Murakkab muhandislik hisoblar talab qilganda",
+                                     "Oddiy mexanik qurilmalarni sinab ko\u0027rishda",
+                                     "Guruhda 20 ta g\u0027oya kerak bo\u0027lganda",
+                                     "Patent talabnomasi yozishda"
+                                 ],
+                     "correctIndex":  1
+                 },
+                 {
+                     "question":  "Texnik ijodkorlikda o\u0027quvchining kunlik ish daftarining asosiy vazifasi:",
+                     "options":  [
+                                     "Faqat chizmalar saqlash",
+                                     "Fikr yuritish jarayonini hujjatlashtirish",
+                                     "Uy vazifasini yozish",
+                                     "Rahbarning ko\u0027rsatmalarini ko\u0027chirish"
+                                 ],
+                     "correctIndex":  1
+                 },
+                 {
+                     "question":  "O\u0027zbekistonda yosh ixtirochilarning ishini patentlash uchun murojaat qilinadigan idora:",
+                     "options":  [
+                                     "Xalq ta\u0027limi vazirligi",
+                                     "Yoshlar ishlari agentligi",
+                                     "Davlat patent idorasi",
+                                     "Respublika ta\u0027lim markazi"
+                                 ],
+                     "correctIndex":  2
+                 },
+                 {
+                     "question":  "2022–2026 yillardagi davlat dasturida texnik to\u0027garaklar uchun ustuvor yo\u0027nalishlardan biri:",
+                     "options":  [
+                                     "Klassik avtomodellashtirish",
+                                     "Qishloq xo\u0027jaligi dronlari",
+                                     "Faqat raketa modellashtirish",
+                                     "Qo\u0027g\u0027irchoq teatr texnikasi"
+                                 ],
+                     "correctIndex":  1
+                 },
+                 {
+                     "question":  "To\u0027garakda ishning eng uzoq davom etadigan bosqichi odatda qaysi?",
+                     "options":  [
+                                     "G\u0027oya yaratish",
+                                     "Model (prototip) yasash",
+                                     "Muammo aniqlash",
+                                     "Himoya qilish"
+                                 ],
+                     "correctIndex":  1
+                 },
+                 {
+                     "question":  "Texnik to\u0027garak rahbari o\u0027quvchiga to\u0027g\u0027ridan-to\u0027g\u0027ri javob berish o\u0027rniga qo\u0027llashi kerak bo\u0027lgan usul:",
+                     "options":  [
+                                     "To\u0027g\u0027ridan-to\u0027g\u0027ri ko\u0027rsatma",
+                                     "Socratik usul (savollar orqali yo\u0027naltirish)",
+                                     "Jazo usuli",
+                                     "Faqat namuna ko\u0027rsatish"
+                                 ],
+                     "correctIndex":  1
+                 },
+                 {
+                     "question":  "Texnik ijodkorlik faoliyatini baholashda eng obyektiv va to\u0027liq ma\u0027lumot beruvchi vosita:",
+                     "options":  [
+                                     "5 ballik baho",
+                                     "Yillik portfolio va kunlik ish daftari",
+                                     "Faqat yakuniy model sifati",
+                                     "Ota-onalar fikri"
+                                 ],
+                     "correctIndex":  1
+                 }
+             ],
+    "resources":  [
+                      {
+                          "title":  "7-mavzu taqdimot slaydlari",
+                          "type":  "article",
+                          "description":  "7-mavzu bo\u0027yicha ma\u0027ruza slaydlari to\u0027plami.",
+                          "url":  "assets/materials/topic_7/resurs/7_resurs.pptx"
+                      },
+                      {
+                          "title":  "Sh.Sharipov, N.Muslimov — \"Texnik ijodkorlik va dizayn\"",
+                          "type":  "book",
+                          "description":  "Texnik ijodkorlik, konstruksiyalash va dizayn asoslarini o\u0027rgatuvchi o\u0027quv qo\u0027llanma. Toshkent, 2011.",
+                          "url":  ""
+                      },
+                      {
+                          "title":  "H.O.Uzoqov va boshqalar — \"Texnik ijodkorlik va konstruksiyalash\"",
+                          "type":  "book",
+                          "description":  "Texnik ijodkorlik va konstruksiyalash bo\u0027yicha kompleks o\u0027quv qo\u0027llanma. Kamolot nashriyoti, Buxoro, 2022.",
+                          "url":  ""
+                      },
+                      {
+                          "title":  "Tinkercad — bepul 3D modellash vositasi",
+                          "type":  "link",
+                          "description":  "Brauzerdagi bepul 3D loyihalash platformasi. Uy maketlari, mexanizmlar va sxemalar yaratish uchun qulay. tinkercad.com",
+                          "url":  ""
+                      }
+                  ]
+}

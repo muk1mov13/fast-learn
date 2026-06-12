@@ -1,0 +1,293 @@
+﻿{
+    "id":  3,
+    "order":  3,
+    "title":  "Respublikada texnik ijodkorlikning tashkiliy asoslari. O\u0027zbekiston Respublikasining Davlat patent idorasi",
+    "isUnlocked":  false,
+    "video":  {
+                  "title":  "Mavzuga kirish videosi",
+                  "duration":  "",
+                  "youtubeId":  "swCxVutEB0Q"
+              },
+    "lesson":  {
+                   "title":  "Ma\u0027ruza matni",
+                   "bodyMarkdown":  "3-MAVZU: Respublikada texnik ijodkorlikning tashkiliy asoslari. O\u0027zbekiston Respublikasining Davlat patent idorasi. Sanoat mulki ob\u0027yektlarini huquqiy jihatdan muhofaza qilish.\n\nReja:\n1. Patent hujjatlari\n2. Patent axboroti\n3. Texnik ijodkorlikni rivojlantirish metodlari\n4. Texnik loyihalash va modellashtirishning moddiy sharoitlari\n\nPatent hujjatlari — tushunchasi va umumiy ma\u0027nosi\n\nPatent — bu ixtirochi yoki muallifga davlat tomonidan beriladigan huquqiy hujjat bo\u0027lib, unda yaratilgan texnik yechim, ixtiro, foydali model yoki sanoat namunasi uchun muallifga maxsus, eksklyuziv huquq taqdim etiladi. Patent egasi ushbu hujjat orqali o\u0027z ixtirosini ruxsatsiz nusxalash, ishlab chiqarish, sotish yoki tarqatilishidan himoyalaydi.\n\nPatent hujjati asosiy bo\u0027limlardan iborat:\n— Bibliografik ma\u0027lumotlar — ixtiro nomi, mualliflar, patent egasi, ariza berilgan sana, patent raqami\n— Tavsif (description) — ixtironing mohiyati, texnik yechimi, analoglar, muammo va yechim\n— Da\u0027volar (claims) — himoya qilinadigan texnik yechim xususiyatlari\n— Chizmalar / rasmlar — konstruktsiya, dizayn, o\u0027lchamlar grafik ko\u0027rinishda\n— Xulosa (abstract) — ixtironing qisqa tavsifi\n\nPatent olish talablari: yangilik (novelty), ixtiro darajasi / noodatiylik (inventive step), sanoatda qo\u0027llanilishi (industrial applicability). Patentlarning turlari: ixtiro, foydali model, sanoat namunalari, seleksiya yutuqlari.\n\nPatent axboroti\n\nPatent axboroti — patent hujjatlarida jamlangan texnik, ilmiy va huquqiy ma\u0027lumotlar majmui. Asosiy manbalar: WIPO PATENTSCOPE, Espacenet (EPO — 150 mln dan ortiq patent), Google Patents, O\u0027zbekiston Intellektual mulk agentligi (IMA) milliy reestri.\n\nPATENT AXBOROTINING AHAMIYATI:\n1. Mavjud texnik yechimlar haqida ishonchli ma\u0027lumot (har yili 3 mln+ yangi patent arizasi)\n2. Yangi g\u0027oyaning yangilik darajasini aniqlash\n3. Raqobatchilar va bozordagi texnologiyalarni kuzatish\n4. Takroriy ilmiy ishlardan qochish\n5. Huquqiy himoya va xavfsizlik — litsenziya zarurligini aniqlash\n\nO\u0027zbekiston Respublikasining Davlat patent idorasi\n\nO\u0027zbekiston Respublikasining Davlat patent idorasi (hozirgi nomi — \"O\u0027zbekiston Respublikasi Intellektual mulk agentligi\", qisqacha \"IMA\") — mamlakatda sanoat mulki va intellektual mulk ob\u0027yektlarini huquqiy muhofaza qilishning asosiy davlat organi. 1992-yilda tashkil etilgan; 2022-yildan Adliya vazirligiga bo\u0027ysunib faoliyat yuritadi.\n\nAsosiy vazifalari:\n— Intellektual mulk ob\u0027ektlarini ro\u0027yxatga olish\n— Patent va guvohnomalar berish\n— Patent ekspertizasini amalga oshirish\n— Xalqaro hamkorlik: WIPO, EAPO, KIPO, EPO, JPO bilan\n\nFaoliyati quyidagi qonunlar bilan tartibga solinadi: O\u0027zR Konstitutsiyasi, \"Ixtirolar, foydali modellar va sanoat namunalari to\u0027g\u0027risida\"gi Qonun (2020), Parij, Madrid, PCT, Gaaga konvensiyalari.\n\nSanoat mulki ob\u0027yektlarini huquqiy muhofaza qilish\n\nIxtiro patentining amal qilish muddati — 20 yil, sanoat namunasi patenti — 10 yil, dastlabki patent va guvohnoma — 5 yil (ustuvorlik sanasidan boshlab). Litsenziya — patent egasining boshqa shaxslarga alohida huquqlarining bir qismini berish bo\u0027yicha tuzgan huquqiy bitimi. Litsenziar — litsenziya sotuvchi, litsenziat — litsenziya sotib oluvchi.",
+                   "slideTitles":  [
+                                       "Patent hujjatlari",
+                                       "Patent axboroti",
+                                       "Texnik ijodkorlikni rivojlantirish metodlari",
+                                       "Texnik loyihalash va modellashtirishning moddiy sharoitlari"
+                                   ]
+               },
+    "glossary":  [
+                     {
+                         "term":  "Sanoat mulki (Industrial property)",
+                         "definition":  "Ixtirolar, foydali modellar, dizaynlar va tovar belgilarini o\u0027z ichiga oluvchi intellektual mulk ob\u0027yektlari."
+                     },
+                     {
+                         "term":  "Ixtiro (Invention)",
+                         "definition":  "Yangi, innovatsion va amaliy qo\u0027llanilishga ega texnik yechim."
+                     },
+                     {
+                         "term":  "Foydali model (Utility model)",
+                         "definition":  "Mavjud texnik yechimning amaliy va soddalashtirilgan shakli."
+                     },
+                     {
+                         "term":  "Patent (Patent)",
+                         "definition":  "Ixtiro yoki foydali model egasiga eksklyuziv huquq beruvchi hujjat."
+                     },
+                     {
+                         "term":  "Patent huquqi (Patent right)",
+                         "definition":  "Patent egasining ixtiro yoki foydali modeldan foydalanish va boshqalarning ruxsatsiz foydalanishini taqiqlash huquqi."
+                     },
+                     {
+                         "term":  "Sanoat namunalari (Industrial designs)",
+                         "definition":  "Mahsulotning tashqi ko\u0027rinishi, shakli, chizmalar va rang kombinatsiyasi."
+                     },
+                     {
+                         "term":  "Tovar belgisi (Trademark)",
+                         "definition":  "Korxona yoki mahsulotni boshqalardan ajratib turuvchi belgi, logotip yoki nom."
+                     },
+                     {
+                         "term":  "Xizmat belgisi (Service mark)",
+                         "definition":  "Xizmatlarni boshqalardan ajratib turuvchi rasmiy belgi."
+                     },
+                     {
+                         "term":  "Geografik ko\u0027rsatkich (Geographical indication)",
+                         "definition":  "Mahsulotning geografik kelib chiqishi bilan bog\u0027liq belgi yoki nom."
+                     },
+                     {
+                         "term":  "Ruxsatnoma (License)",
+                         "definition":  "Sanoat mulki ob\u0027yektidan boshqa shaxslar foydalanishi uchun berilgan huquq."
+                     },
+                     {
+                         "term":  "Litsenziya shartnomasi (License agreement)",
+                         "definition":  "Patent egasi va boshqa shaxs o\u0027rtasida ruxsatnoma berish bo\u0027yicha tuziladigan shartnoma."
+                     },
+                     {
+                         "term":  "Ekspertiza (Examination)",
+                         "definition":  "Patent berishdan oldin ixtiro yoki foydali modelning yangiligi, ixtiyoriyligi va amaliy qo\u0027llanilishini tekshirish jarayoni."
+                     },
+                     {
+                         "term":  "Ro\u0027yxatdan o\u0027tkazish (Registration)",
+                         "definition":  "Patent, foydali model yoki tovar belgisini Davlat patent idorasida rasmiy tarzda qayd etish."
+                     },
+                     {
+                         "term":  "Mualliflik huquqi (Copyright)",
+                         "definition":  "Asar, dizayn yoki boshqa ijodiy mahsulotni yaratgan shaxsning huquqiy himoyasi."
+                     },
+                     {
+                         "term":  "Intellektual mulk (Intellectual property)",
+                         "definition":  "Inson aqliy faoliyati natijasida yaratilgan barcha huquqiy ob\u0027yektlar majmui."
+                     },
+                     {
+                         "term":  "Eksklyuziv huquq (Exclusive right)",
+                         "definition":  "Huquq egasiga o\u0027z ob\u0027yektidan boshqalardan ruxsatsiz foydalanishni taqiqlash huquqi."
+                     },
+                     {
+                         "term":  "Davlat patent idorasi (State Patent Office)",
+                         "definition":  "O\u0027zbekistonda sanoat mulki ob\u0027yektlarini ro\u0027yxatdan o\u0027tkazish va himoya qilish bilan shug\u0027ullanuvchi rasmiy organ."
+                     },
+                     {
+                         "term":  "Huquqni buzish (Infringement)",
+                         "definition":  "Ruxsatsiz foydalanish, nusxalash yoki tarqatish orqali sanoat mulki egasining huquqlarini buzish."
+                     },
+                     {
+                         "term":  "Himoya muddati (Term of protection)",
+                         "definition":  "Patent, foydali model yoki dizayn uchun qonunda belgilangan muddat davomida huquqiy himoya ta\u0027minlanadigan vaqt."
+                     },
+                     {
+                         "term":  "Innovatsiya (Innovation)",
+                         "definition":  "Yangi texnik yechim, mahsulot yoki xizmatni yaratish va amaliy qo\u0027llash jarayoni."
+                     }
+                 ],
+    "crossword":  [
+                      {
+                          "orientation":  "Gorizontal",
+                          "clue":  "Yangi g\u0027oyalar, ixtirolar va ishlanmalar yaratish jarayoni. (10)",
+                          "answer":  "IJODKORLIK"
+                      },
+                      {
+                          "orientation":  "Vertikal",
+                          "clue":  "Ixtirodan foydalanish huquqini beruvchi ruxsatnoma. (10)",
+                          "answer":  "LITSENZIYA"
+                      },
+                      {
+                          "orientation":  "Vertikal",
+                          "clue":  "Ilmiy-tadqiqot va ta\u0027lim faoliyatini olib boruvchi yuqori darajadagi muassasa (masalan, Fanlar ___). (9)",
+                          "answer":  "AKADEMIYA"
+                      },
+                      {
+                          "orientation":  "Vertikal",
+                          "clue":  "Davlat tomonidan ma\u0027lum bir sohada faoliyatni tartibga soluvchi yoki qo\u0027llab-quvvatlovchi idora. (8)",
+                          "answer":  "AGENTLIK"
+                      },
+                      {
+                          "orientation":  "Vertikal",
+                          "clue":  "Mahsulot ishlab chiqarish yoki xizmat ko\u0027rsatish bilan shug\u0027ullanuvchi tashkilot. (7)",
+                          "answer":  "KORXONA"
+                      },
+                      {
+                          "orientation":  "Gorizontal",
+                          "clue":  "Mamlakatning kelajagi bo\u0027lgan avlod, ular uchun texnoparklar tashkil etiladi. (7)",
+                          "answer":  "YOSHLAR"
+                      },
+                      {
+                          "orientation":  "Gorizontal",
+                          "clue":  "Ixtiro, foydali model yoki sanoat namunasiga beriladigan huquqiy himoya hujjati. (6)",
+                          "answer":  "PATENT"
+                      },
+                      {
+                          "orientation":  "Gorizontal",
+                          "clue":  "Qurilmalar, uskunalar va jarayonlar bilan bog\u0027liq bo\u0027lgan soha (masalan, ___ ijodkorlik). (6)",
+                          "answer":  "TEXNIK"
+                      },
+                      {
+                          "orientation":  "Gorizontal",
+                          "clue":  "Biror narsaning tarkibiy qismlarini o\u0027rganish, baholash. (6)",
+                          "answer":  "TAHLIL"
+                      },
+                      {
+                          "orientation":  "Gorizontal",
+                          "clue":  "Innovatsion loyihalarni moliyalashtirish uchun davlat yoki xususiy sektor tomonidan ajratiladigan mablag\u0027. (5)",
+                          "answer":  "GRANT"
+                      },
+                      {
+                          "orientation":  "Vertikal",
+                          "clue":  "O\u0027zaro bog\u0027liq elementlar majmuasi (masalan, patent ___). (5)",
+                          "answer":  "TIZIM"
+                      }
+                  ],
+    "questions":  [
+                      "Davlat patent idorasining asosiy vazifalari va tuzilmasi haqida nimalarni bilasiz?",
+                      "Sanoat mulki ob\u0027yektlari deganda nimalar tushuniladi?",
+                      "Ixtiro va foydali model o\u0027rtasidagi farqlarni tushuntiring.",
+                      "Patent olish jarayonida ekspertiza qanday bosqichlarda o\u0027tkaziladi?",
+                      "Xalqaro patent tizimiga kirish O\u0027zbekiston uchun qanday imkoniyatlar yaratadi?"
+                  ],
+    "practical":  {
+                      "task":  "Tinkercad dasturida sodda samolyot modelini loyihalash va modellashtirish.\n\nSamolyot — reaktiv dvigatel, pervanel yoki raketa dvigatelidan turtki bilan oldinga harakatlanadigan qat\u0027iy qanotli uçar vosita. Rayt aka-ukalar 1903-yilda birinchi motorli samolyotni ixtiro qilishdi. Samolyotning asosiy qismlari: fuzelyaj (tanasi), qanotlar, quyruq, pervanel (propeller). Dunyo bo\u0027ylab tijorat aviatsiyasi har yili 4 milliarddan ortiq yo\u0027lovchini tashiydi. Ushbu amaliy mashg\u0027ulotda Tinkercad 3D modellash dasturidan foydalanib samolyot modeli yaratasiz.",
+                      "requirement":  "**Kerakli vositalar:** Kompyuter yoki planshet (internetga ulangan), Tinkercad.com saytida bepul akkaunt, sichqoncha.\n\n**Bosqich 1 — Fuzelyaj (samolyot tanasi):**\nCylinder (silindr) shaklini qo\u0027ying, cho\u0027ziq qiling: uzunligi 120 mm, diametri 20 mm. Uchini konussimon qilish uchun Cone (konus) shaklini qo\u0027shib, Group bilan birlashtiring.\n\n**Bosqich 2 — Qanotlar:**\nRoof yoki Wedge shaklini 2 marta nusxa oling (o\u0027lcham: uzunligi 100 mm, kengligi 30 mm, balandligi 5 mm). Fuzelyajning o\u0027rtasiga Align vositasi bilan simmetrik joylashtiring va guruhlang.\n\n**Bosqich 3 — Quyruq qismi:**\nKichikroq Roof yoki Wedge shakllarini vertikal va gorizontal quyruq uchun qo\u0027shing. Fuzelyajning orqa qismiga joylashtiring.\n\n**Bosqich 4 — Pervanel va detallar:**\nOld qismga Cylinder yoki Star shaklidan pervanel yasang (Rotate vositasi bilan aylantiring). Kabina uchun Sphere yoki Box qo\u0027shing; derazalar uchun Hole vositasi bilan teshik oching. Ixtiyoriy: harbiy samolyot uchun qo\u0027shimcha qanotlar yoki raketalar qo\u0027shing.\n\n**Yakuniy ishlar:** Barcha qismlarni Group qiling. Ranglar qo\u0027shing (kumushrang fuzelyaj, qizil qanotlar). Modelni turli tomondan aylantirib tekshiring.\n\n**Uy vazifasi:** Modelni STL formatida eksport qilib, 4-5 tarafdan skrinshot oling va qisqa izoh yozing (samolyotning xususiyatlari va yaxshilash g\u0027oyalari)."
+                  },
+    "test":  [
+                 {
+                     "question":  "O\u0027zbekiston Respublikasida ixtirolar, foydali modellar va sanoat namunalari bo\u0027yicha patent beruvchi organ qaysi?",
+                     "options":  [
+                                     "Fanlar akademiyasi",
+                                     "Intellektual mulk agentligi",
+                                     "Innovatsion rivojlanish vazirligi",
+                                     "Oliy ta\u0027lim, fan va innovatsiyalar vazirligi"
+                                 ],
+                     "correctIndex":  1
+                 },
+                 {
+                     "question":  "WIPO qisqartmasi qanday tashkilot nomining qisqartmasi?",
+                     "options":  [
+                                     "World Investment and Progress Organization",
+                                     "World Industry Protection Organization",
+                                     "World Intellectual Property Organization",
+                                     "World Innovation Policy Office"
+                                 ],
+                     "correctIndex":  2
+                 },
+                 {
+                     "question":  "Sanoat mulki ob\u0027yektlariga nimalar kiradi?",
+                     "options":  [
+                                     "Fikr va g\u0027oyalar",
+                                     "Ixtirolar, foydali modellar, sanoat namunalari",
+                                     "Adabiy va badiiy asarlar",
+                                     "Internet saytlari"
+                                 ],
+                     "correctIndex":  1
+                 },
+                 {
+                     "question":  "Ixtiro uchun patentning amal qilish muddati qancha?",
+                     "options":  [
+                                     "10 yil",
+                                     "15 yil",
+                                     "20 yil",
+                                     "25 yil"
+                                 ],
+                     "correctIndex":  2
+                 },
+                 {
+                     "question":  "Foydali model deganda nimani tushunasiz?",
+                     "options":  [
+                                     "Fikrning badiiy ifodasi",
+                                     "Texnik masalaga yangi va foydali yechim",
+                                     "Tovar belgisi turi",
+                                     "Ishlab chiqarish jarayoni"
+                                 ],
+                     "correctIndex":  1
+                 },
+                 {
+                     "question":  "O\u0027zbekiston Respublikasi qachon Butunjahon intellektual mulk tashkilotiga (WIPO) a\u0027zo bo\u0027lgan?",
+                     "options":  [
+                                     "1991-yil",
+                                     "1995-yil",
+                                     "2000-yil",
+                                     "2010-yil"
+                                 ],
+                     "correctIndex":  0
+                 },
+                 {
+                     "question":  "Patent egasining asosiy huquqi nimadan iborat?",
+                     "options":  [
+                                     "Ixtironi bepul foydalanishga ruxsat berish",
+                                     "Ixtirodan foydalanishni nazorat qilish va ruxsat berish",
+                                     "Ixtironi faqat davlatga topshirish",
+                                     "Ixtironi yashirin saqlash"
+                                 ],
+                     "correctIndex":  1
+                 },
+                 {
+                     "question":  "O\u0027zbekistonning Yevroosiyo patent tashkiloti (EAPO) bilan hamkorligi nimaga qaratilgan?",
+                     "options":  [
+                                     "Sanoat ishlab chiqarishini boshqarish",
+                                     "Patent axborot almashuvini yo\u0027lga qo\u0027yish",
+                                     "Tovar eksportini nazorat qilish",
+                                     "Xalqaro turizmni rivojlantirish"
+                                 ],
+                     "correctIndex":  1
+                 },
+                 {
+                     "question":  "«Sanoat namunasi» deganda nima tushuniladi?",
+                     "options":  [
+                                     "Mahsulotning tashqi ko\u0027rinishi va dizayni",
+                                     "Mahsulotning ichki mexanizmi",
+                                     "Patent arizasi shakli",
+                                     "Tovar belgisi turi"
+                                 ],
+                     "correctIndex":  0
+                 },
+                 {
+                     "question":  "Quyidagi konvensiyalardan qaysi biri sanoat mulkini xalqaro himoyaga olishga oid?",
+                     "options":  [
+                                     "Bern konvensiyasi",
+                                     "Parij konvensiyasi",
+                                     "Rim konvensiyasi",
+                                     "Toshkent deklaratsiyasi"
+                                 ],
+                     "correctIndex":  1
+                 }
+             ],
+    "resources":  [
+                      {
+                          "title":  "3-mavzu taqdimot slaydlari",
+                          "type":  "article",
+                          "description":  "Patent tizimi, O\u0027zbekiston Intellektual mulk agentligi, sanoat mulki ob\u0027yektlari bo\u0027yicha ma\u0027ruza slaydlari.",
+                          "url":  "assets/materials/topic_3/resurs/3_resurs.pptx"
+                      },
+                      {
+                          "title":  "O\u0027zbekiston Intellektual mulk agentligi",
+                          "type":  "link",
+                          "description":  "Rasmiy sayt: patent ariza topshirish, milliy patentlar reestri va xalqaro hamkorlik ma\u0027lumotlari.",
+                          "url":  "https://im.adliya.uz"
+                      },
+                      {
+                          "title":  "WIPO PATENTSCOPE — xalqaro patent bazasi",
+                          "type":  "link",
+                          "description":  "Jahon intellektual mulk tashkilotining ochiq patent ma\u0027lumotlar bazasi — millionlab patentlarni qidirish mumkin.",
+                          "url":  "https://patentscope.wipo.int"
+                      }
+                  ]
+}

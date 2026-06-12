@@ -8,7 +8,7 @@ Future<void> downloadAsset(
     BuildContext context, String assetPath, String fileName) async {
   try {
     final data = await rootBundle.load(assetPath);
-    final bytes = data.buffer.asUint8List();
+    final bytes = data.buffer.asUint8List(data.offsetInBytes, data.lengthInBytes);
     final dir = (Platform.isAndroid
             ? await getExternalStorageDirectory()
             : null) ??
@@ -33,7 +33,7 @@ Future<void> openAsset(
     BuildContext context, String assetPath, String fileName) async {
   try {
     final data = await rootBundle.load(assetPath);
-    final bytes = data.buffer.asUint8List();
+    final bytes = data.buffer.asUint8List(data.offsetInBytes, data.lengthInBytes);
     final dir = await getTemporaryDirectory();
     final file = File('${dir.path}/$fileName');
     await file.writeAsBytes(bytes);

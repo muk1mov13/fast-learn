@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Video pleyer lokal HTTP server (http://127.0.0.1:PORT) orqali yuklanadi.
+     Android 9+ da cleartext (http) trafik bloklanadi — loopback uchun ruxsat
+     beramiz. YouTube'ga https so'rovlar bundan ta'sirlanmaydi. -->
+<network-security-config>
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="false">127.0.0.1</domain>
+        <domain includeSubdomains="false">localhost</domain>
+    </domain-config>
+</network-security-config>

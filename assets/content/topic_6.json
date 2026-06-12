@@ -1,0 +1,329 @@
+﻿{
+    "id":  6,
+    "order":  6,
+    "title":  "Rasionalizatorlik takliflari",
+    "isUnlocked":  false,
+    "video":  {
+                  "title":  "Mavzuga kirish videosi",
+                  "duration":  "",
+                  "youtubeId":  "AjcgL8P6ZnI"
+              },
+    "lesson":  {
+                   "title":  "Rasionalizatorlik takliflari",
+                   "bodyMarkdown":  "Rasionalizatorlik takliflari — bu ishlab chiqarish, xizmat ko\u0027rsatish va boshqaruv jarayonlarini takomillashtirishning samarali usuli bo\u0027lib, resurslarni tejash, samaradorlikni oshirish va iqtisodiy foyda keltirishga qaratilgan. Zamonaviy iqtisodiyotda, xususan O\u0027zbekistonning \"Raqamli iqtisodiyot\" va \"Sanoat innovatsiyalari\" strategiyalarida rasionalizatorlik takliflari korxonalar raqobatbardoshligini ta\u0027minlashning muhim omili hisoblanadi.\n\nO\u0027zbekiston Respublikasi \"Ixtiro, foydali model va rasionalizatorlik takliflari to\u0027g\u0027risida\"gi Qonun (2020 yilgi tahrir, 567-son) ta\u0027rifiga ko\u0027ra: rasionalizatorlik taklifi — korxona, muassasa yoki tashkilotda qo\u0027llanilayotgan texnika, texnologiya, ishlab chiqarish tashkilotchiligi yoki mehnatni muhofaza qilish usullarini takomillashtirishga qaratilgan texnik yechim bo\u0027lib, u yangi emas, ammo amalda qo\u0027llanilishi va iqtisodiy samara berishi kerak.\n\nRasionalizatorlik takliflari quyidagi turlarga bo\u0027linadi: texnik (uskuna, asbob yoki jarayonlarni takomillashtirish), tashkiliy (ish jarayonlarini optimallashtirish), iqtisodiy (xarajatlarni kamaytirish), ekologik (atrof-muhitni muhofaza qilish) va mehnatni muhofaza qilish (xavfsizlikni oshirish).\n\nRasionalizatorlik taklifi ixtirodan farqli o\u0027laroq, jahoniy yangilik talab qilmaydi — faqat korxonada mahalliy yangilik bo\u0027lishi va amaliy samara berishi kerak. Ixtiroga patent berilsa, rasionalizatorlik taklifiga guvohnoma beriladi va muallif iqtisodiy samaraning 5–10% ini mukofot sifatida olishi mumkin.\n\nXalqaro tajribada Yaponiyaning Kaizen tizimi (uzluksiz kichik yaxshilanishlar) va Lean Production (isroflarni minimallashtirish) metodologiyalari rasionalizatorlik takliflarining samarali shakllari hisoblanadi. O\u0027zbekistonda \"Innovatsion rivojlanish strategiyasi 2022–2026\" (PF-165, 2022) doirasida rasionalizatorlik kichik innovatsiyalar sifatida belgilangan va ta\u0027lim bosqichlarida yaratuvchanlik ko\u0027nikmalarini shakllantirish ko\u0027zda tutilgan.\n\nRasionalizatorlik taklifi berish bosqichlari: (1) muammoni aniqlash; (2) taklif ishlab chiqarish; (3) korxona innovatsion komissiyasida himoya; (4) amalga oshirish va 6 oy ichida samara hisobi.",
+                   "slideTitles":  [
+                                       "Respublikada texnik ijodkorlikning tashkiliy asoslari",
+                                       "Rasionalizatorlik takliflari",
+                                       "Rasionalizatorlik taklifi tushunchasi"
+                                   ]
+               },
+    "glossary":  [
+                     {
+                         "term":  "Rasionalizatorlik taklifi",
+                         "definition":  "Ishlab chiqarish jarayonini, texnologiyani yoki mehnat sharoitlarini takomillashtirishga qaratilgan amaliy texnik yangilik."
+                     },
+                     {
+                         "term":  "Rasionalizator",
+                         "definition":  "Mavjud texnik yoki ishlab chiqarish jarayonlarini yaxshilovchi taklif muallifi; texnik ijodkorlik bilan shug\u0027ullanuvchi shaxs."
+                     },
+                     {
+                         "term":  "Texnik ijodkorlik",
+                         "definition":  "Insonning texnik jarayonlar, qurilmalar yoki usullarni takomillashtirishga qaratilgan ijodiy faoliyati."
+                     },
+                     {
+                         "term":  "TRIZ (Ixtirochilik masalalarini yechish nazariyasi)",
+                         "definition":  "Texnik muammolarni tizimli tahlil qilish va yechimlar topishga qaratilgan ilmiy metodologiya."
+                     },
+                     {
+                         "term":  "Kaizen",
+                         "definition":  "Yaponiyadagi doimiy takomillashtirish tamoyili; kichik, ammo uzluksiz yaxshilashga qaratilgan boshqaruv falsafasi."
+                     },
+                     {
+                         "term":  "Lean Production",
+                         "definition":  "Isroflarni minimallashtirish, samaradorlikni oshirish va jarayonlarni soddalashtirishga qaratilgan ishlab chiqarish tizimi."
+                     },
+                     {
+                         "term":  "Rag\u0027batlantirish",
+                         "definition":  "Rasionalizatorlik taklif mualliflariga beriladigan moddiy yoki nomoddiy mukofotlar."
+                     },
+                     {
+                         "term":  "Moddiy rag\u0027bat",
+                         "definition":  "Pul mukofoti, bonus, ulush, iqtisodiy samaraga bog\u0027liq to\u0027lov kabi muallifni moddiy rag\u0027batlantirish usullari."
+                     },
+                     {
+                         "term":  "Nomoddiy rag\u0027bat",
+                         "definition":  "Faxriy yorliq, sertifikat, e\u0027tirof, ko\u0027tarilish, tashakkurnoma kabi ma\u0027naviy rag\u0027bat shakllari."
+                     },
+                     {
+                         "term":  "Ekspertiza",
+                         "definition":  "Rasionalizatorlik taklifining texnik, iqtisodiy va amaliy jihatdan baholanish jarayoni."
+                     },
+                     {
+                         "term":  "Iqtisodiy samaradorlik",
+                         "definition":  "Taklifni joriy etish orqali korxonada erishiladigan foyda, tejalgan resurslar yoki qisqargan xarajatlar."
+                     },
+                     {
+                         "term":  "Patent",
+                         "definition":  "Ixtiro yoki boshqa intellektual mulk obyektining davlat tomonidan himoyalanishi; rasionalizatorlik takliflari odatda patent talab qilmaydi."
+                     },
+                     {
+                         "term":  "Intellektual mulk",
+                         "definition":  "Insonning ijodiy mehnati natijasi bo\u0027lgan obyektlarning (ixtiro, brend, dastur, taklif) huquqiy himoya tizimi."
+                     },
+                     {
+                         "term":  "Mualliflik huquqi",
+                         "definition":  "Rasionalizatorlik taklifi muallifining nomini ko\u0027rsatilishi, mukofot olish, taklif ustuvorligiga egalik huquqi."
+                     },
+                     {
+                         "term":  "Innovatsiya",
+                         "definition":  "Yangilik kiritish jarayoni; texnik, texnologik yoki tashkiliy o\u0027zgarishlar orqali samaradorlikni oshirish."
+                     },
+                     {
+                         "term":  "Takomillashtirish",
+                         "definition":  "Mavjud jarayon, qurilma yoki texnologiyani yaxshiroq natijaga yo\u0027naltirish."
+                     },
+                     {
+                         "term":  "Tahliliy yondashuv",
+                         "definition":  "Muammoni chuqur o\u0027rganish, sabablarni aniqlash va eng samarali texnik yechimni ishlab chiqish usuli."
+                     },
+                     {
+                         "term":  "G\u0027oya banki (Idea Bank)",
+                         "definition":  "Korxonalarda takliflar, g\u0027oyalar va yangiliklarni yig\u0027ib boriladigan tizim yoki platforma."
+                     },
+                     {
+                         "term":  "Elektron takliflar tizimi",
+                         "definition":  "Xodimlardan takliflarni onlayn qabul qilish, saqlash va ekspertiza qilish uchun mo\u0027ljallangan axborot tizimi."
+                     },
+                     {
+                         "term":  "Texnik yechim",
+                         "definition":  "Muammoni hal etishga qaratilgan texnologik yoki mexanik usul, konstruktsiya, jarayon yoki qurilma o\u0027zgarishi."
+                     },
+                     {
+                         "term":  "Resurs tejamkorlik",
+                         "definition":  "Energiya, vaqt, mehnat resurslari va xomashyoni minimal sarf bilan maksimal natijaga erishish tamoyili."
+                     },
+                     {
+                         "term":  "Innovatsion salohiyat",
+                         "definition":  "Korxonaning yangi texnologiyalar, takliflar va texnik yangiliklarni yaratish va joriy etish qobiliyati."
+                     },
+                     {
+                         "term":  "Korxona innovatsion komissiyasi",
+                         "definition":  "Rasionalizatorlik takliflarini qabul qilish, ko\u0027rib chiqish va baholash uchun tuzilgan ichki guruh."
+                     },
+                     {
+                         "term":  "Amaliy tatbiq etish",
+                         "definition":  "Taklifni korxona jarayoniga real ravishda joriy qilish va natijalarni sinovdan o\u0027tkazish bosqichi."
+                     }
+                 ],
+    "crossword":  [
+                      {
+                          "orientation":  "Gorizontal",
+                          "clue":  "Mavjud jarayonlarni takomillashtirishga qaratilgan amaliy texnik ijodkorlik yo\u0027nalishi. (17)",
+                          "answer":  "RASIONALIZATORLIK"
+                      },
+                      {
+                          "orientation":  "Vertikal",
+                          "clue":  "Yangilik kiritish jarayoni; samaradorlikni oshiruvchi o\u0027zgarishlar. (11)",
+                          "answer":  "INNOVATSIYA"
+                      },
+                      {
+                          "orientation":  "Vertikal",
+                          "clue":  "Resurslarni minimal sarf bilan maksimal natijaga erishish tamoyili. (11)",
+                          "answer":  "TEJAMKORLIK"
+                      },
+                      {
+                          "orientation":  "Vertikal",
+                          "clue":  "Ishlab chiqarish jarayonlarida qo\u0027llaniladigan usullar va vositalar majmuasi. (11)",
+                          "answer":  "TEXNOLOGIYA"
+                      },
+                      {
+                          "orientation":  "Vertikal",
+                          "clue":  "Rasionalizatorlik taklifining texnik, iqtisodiy va amaliy jihatdan baholanish jarayoni. (10)",
+                          "answer":  "EKSPERTIZA"
+                      },
+                      {
+                          "orientation":  "Vertikal",
+                          "clue":  "Ishlab chiqarish jarayonida mahsulot miqdorini oshirish ko\u0027rsatkichi. (10)",
+                          "answer":  "UNUMDORLIK"
+                      },
+                      {
+                          "orientation":  "Gorizontal",
+                          "clue":  "Rasionalizatorlik takliflari amalga oshiriladigan tashkilot turi. (7)",
+                          "answer":  "KORXONA"
+                      },
+                      {
+                          "orientation":  "Vertikal",
+                          "clue":  "Mavjud texnik yoki ishlab chiqarish jarayonlarini yaxshilovchi taklifni yaratgan shaxs. (7)",
+                          "answer":  "MUALLIF"
+                      },
+                      {
+                          "orientation":  "Vertikal",
+                          "clue":  "Korxona yoki tashkilotda qo\u0027llanilayotgan usullarni takomillashtirishga qaratilgan texnik yechim. (6)",
+                          "answer":  "TAKLIF"
+                      },
+                      {
+                          "orientation":  "Gorizontal",
+                          "clue":  "Taklifni joriy etish orqali erishiladigan iqtisodiy foyda. (6)",
+                          "answer":  "SAMARA"
+                      },
+                      {
+                          "orientation":  "Vertikal",
+                          "clue":  "Rasionalizatorlik taklif mualliflariga beriladigan moddiy yoki nomoddiy mukofotlar. (7)",
+                          "answer":  "RAG\u0027BAT"
+                      },
+                      {
+                          "orientation":  "Gorizontal",
+                          "clue":  "Ixtiro yoki boshqa intellektual mulk obyektining davlat tomonidan himoyalanishi; rasionalizatorlik takliflari odatda buni talab qilmaydi. (6)",
+                          "answer":  "PATENT"
+                      },
+                      {
+                          "orientation":  "Gorizontal",
+                          "clue":  "Yaponiyadagi doimiy takomillashtirish tamoyili; kichik, ammo uzluksiz yaxshilashga qaratilgan falsafa. (6)",
+                          "answer":  "KAIZEN"
+                      },
+                      {
+                          "orientation":  "Gorizontal",
+                          "clue":  "Mahsulot yoki xizmatning belgilangan talablarga mos kelish darajasi. (5)",
+                          "answer":  "SIFAT"
+                      }
+                  ],
+    "questions":  [
+                      "Ixtiro tushunchasi. Ixtironing kashfiyotdan farqi.",
+                      "Kashfiyot va ixtirolarning ilmiy-texnik taraqqiyotga ta\u0027siri.",
+                      "Kashfiyotlar va ixtirolar.",
+                      "Ratsionalizatorlik taklifi tushunchasi.",
+                      "Patent hujjatlari va patent axboroti."
+                  ],
+    "practical":  {
+                      "task":  "Yog\u0027ochdan sodda qayiq (yelkansiz kema) modeli yasash",
+                      "requirement":  "Berilgan chizma bo\u0027yicha qalinligi 3–6 mm bo\u0027lgan kontrplakdan qismlarni (A, E, G, H, K, L) kesib oling. Qismlarni slot-in-slot usulida yig\u0027ing (avval quruq sinab ko\u0027ring, keyin PVA yoki suv o\u0027tkazmas elim suring). Elim quriganidan keyin modelni silliqlang va bo\u0027yang. Ixtiyoriy: yelkan yoki odamcha figuralar qo\u0027shing, tayyor modelni suvda sinab ko\u0027ring. Hisobot: ish jarayoni, qiyinchiliklar va suvda sinash natijalari (1 sahifa)."
+                  },
+    "test":  [
+                 {
+                     "question":  "Ratsionalizatorlik taklifi deyilganda nimani tushunasiz?",
+                     "options":  [
+                                     "Fan-texnika yutuqlariga asoslangan yangi mahsulot yaratish",
+                                     "Amaldagi texnik jarayon yoki mahsulotga foydali o\u0027zgartirish kiritish orqali samaradorlikni oshirish",
+                                     "Yangi qonun yaratish",
+                                     "Ixtiro himoyasiga beriladigan hujjat"
+                                 ],
+                     "correctIndex":  1
+                 },
+                 {
+                     "question":  "Ratsionalizatorlik takliflari qaysi tamoyilga asoslanadi?",
+                     "options":  [
+                                     "Innovatsion loyiha yaratish",
+                                     "Faqat yangi mahsulot yaratish",
+                                     "Takomillashtirish va optimallashtirish",
+                                     "Texnik ekspertiza o\u0027tkazish"
+                                 ],
+                     "correctIndex":  2
+                 },
+                 {
+                     "question":  "O\u0027zbekistonda ratsionalizatorlik takliflarini ro\u0027yxatdan o\u0027tkazish kim tomonidan amalga oshiriladi?",
+                     "options":  [
+                                     "Adliya vazirligi",
+                                     "Intellektual mulk agentligi (O\u0027zRIMA)",
+                                     "Iqtisodiyot vazirligi",
+                                     "Sanoat vazirligi"
+                                 ],
+                     "correctIndex":  1
+                 },
+                 {
+                     "question":  "Ratsionalizatorlik taklifini qabul qilish uchun asosiy talab?",
+                     "options":  [
+                                     "Uni muallifning o\u0027zi ishga tatbiq etishi",
+                                     "Yangilik elementi mavjud bo\u0027lishi",
+                                     "Kamida 3 muallif bo\u0027lishi",
+                                     "Patentga ega bo\u0027lish"
+                                 ],
+                     "correctIndex":  1
+                 },
+                 {
+                     "question":  "Ratsionalizatorlik taklifi qanday huquqiy hujjat bilan tasdiqlanadi?",
+                     "options":  [
+                                     "Patent",
+                                     "Sertifikat",
+                                     "Guvohnoma",
+                                     "Litsenziya shartnomasi"
+                                 ],
+                     "correctIndex":  2
+                 },
+                 {
+                     "question":  "Ratsionalizatorlik takliflaridan foydalanish natijasida korxona nima oladi?",
+                     "options":  [
+                                     "Moliyaviy zarar",
+                                     "Samaradorlikning oshishi va xarajatlarning kamayishi",
+                                     "Faqat tashqi investitsiyalar",
+                                     "Nobarqarorlik"
+                                 ],
+                     "correctIndex":  1
+                 },
+                 {
+                     "question":  "Xalqaro tajribaga ko\u0027ra ratsionalizatorlik takliflarini rag\u0027batlantirishda eng keng tarqalgan usul?",
+                     "options":  [
+                                     "Patent berish",
+                                     "Moliyaviy mukofot va bonuslar",
+                                     "Intellektual mulkni musodara qilish",
+                                     "Davlat sanksiyasi"
+                                 ],
+                     "correctIndex":  1
+                 },
+                 {
+                     "question":  "Ratsionalizatorlik taklifi kimlar tomonidan berilishi mumkin?",
+                     "options":  [
+                                     "Faqat muhandislar",
+                                     "Faqat rahbarlar",
+                                     "Korxonada ishlovchi har qanday xodim",
+                                     "Faqat ilmiy xodimlar"
+                                 ],
+                     "correctIndex":  2
+                 },
+                 {
+                     "question":  "Quyidagi variantlardan qaysi biri ratsionalizatorlik taklifining asosiy maqsadidir?",
+                     "options":  [
+                                     "Faqat iqtisodiy foyda olish",
+                                     "Xodimlarni attestatsiyadan o\u0027tkazish",
+                                     "Jarayon va mahsulotlarni takomillashtirish",
+                                     "Korxonada kadrlar sonini qisqartirish"
+                                 ],
+                     "correctIndex":  2
+                 },
+                 {
+                     "question":  "O\u0027zbekiston qonunchiligiga ko\u0027ra ratsionalizatorlik taklifidan foydalanganlik uchun muallifga beriladigan imtiyoz turi:",
+                     "options":  [
+                                     "Soliq imtiyozi",
+                                     "Mukofot (pul shaklida)",
+                                     "Tasdiqlovchi medal",
+                                     "Maxsus ruxsatnoma"
+                                 ],
+                     "correctIndex":  1
+                 }
+             ],
+    "resources":  [
+                      {
+                          "title":  "6-mavzu taqdimot slaydlari",
+                          "type":  "article",
+                          "description":  "6-mavzu bo\u0027yicha ma\u0027ruza slaydlari to\u0027plami.",
+                          "url":  "assets/materials/topic_6/resurs/6_resurs.pptx"
+                      },
+                      {
+                          "title":  "Sh.Sharipov, N.Muslimov — \"Texnik ijodkorlik va dizayn\"",
+                          "type":  "book",
+                          "description":  "Texnik ijodkorlik, konstruksiyalash va dizayn asoslarini o\u0027rgatuvchi o\u0027quv qo\u0027llanma. Toshkent, 2011.",
+                          "url":  ""
+                      },
+                      {
+                          "title":  "H.O.Uzoqov va boshqalar — \"Texnik ijodkorlik va konstruksiyalash\"",
+                          "type":  "book",
+                          "description":  "Texnik ijodkorlik va konstruksiyalash bo\u0027yicha kompleks o\u0027quv qo\u0027llanma. Kamolot nashriyoti, Buxoro, 2022.",
+                          "url":  ""
+                      },
+                      {
+                          "title":  "O\u0027zR Qonun 567-son — Ixtiro, foydali model va rasionalizatorlik takliflari",
+                          "type":  "article",
+                          "description":  "O\u0027zbekiston Respublikasining rasionalizatorlik takliflari sohasidagi asosiy qonunchilik hujjati (2020 yilgi tahrir).",
+                          "url":  ""
+                      }
+                  ]
+}

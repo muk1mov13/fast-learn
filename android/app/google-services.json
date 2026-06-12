@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "707566372207",
+    "project_id": "texnik-ijodkorlik-ilhom-45503",
+    "storage_bucket": "texnik-ijodkorlik-ilhom-45503.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707566372207:android:00f97156d1df4e2b9d549a",
+        "android_client_info": {
+          "package_name": "com.example.texnik_ijodkorlik"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtxafZ5s6QjHUo3GTeylZhCD5epKSwuNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

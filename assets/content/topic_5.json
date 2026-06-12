@@ -1,0 +1,297 @@
+﻿{
+    "id":  5,
+    "order":  5,
+    "title":  "Kashfiyot — texnik masalalarni yechishning ilmiy asosi sifatida. Kashfiyot tushunchasi",
+    "isUnlocked":  false,
+    "video":  {
+                  "title":  "Mavzuga kirish videosi",
+                  "duration":  "",
+                  "youtubeId":  "lwDJG899BWw"
+              },
+    "lesson":  {
+                   "title":  "Ma\u0027ruza matni",
+                   "bodyMarkdown":  "5-MAVZU: Kashfiyot — texnik masalalarni yechishning ilmiy asosi sifatida. Kashfiyot tushunchasi.\n\nReja:\n1. Kashfiyot turlari\n2. Kashfiyot tushunchasining me\u0027yoriy sifatlari\n3. Kashfiyotning umumiy ta\u0027rifi va tarixiy kelib chiqishi\n\nKashfiyot — ta\u0027rif va mohiyat\n\n«Kashfiyot» — avval noma\u0027lum bo\u0027lgan tabiat qonuniyatlarini, hodisalarni yoki jarayonlarni ochish, aniqlash va ilmiy asoslash jarayoni. U tasodifiy emas, balki muntazam ilmiy izlanishlar, tajribalar va kuzatishlar natijasida yuzaga keladi.\n\nKashfiyot va ixtironing farqi: kashfiyot tabiatda allaqachon mavjud bo\u0027lgan hodisani topadi (ko\u0027proq nazariy); ixtiro esa shu nazariyani amaliy shaklga keltiradi (yangi qurilma, protsess, mahsulot).\n\nKashfiyot → Ixtiro → Innovatsiya zanjiri:\n— Kashfiyot — yangi bilim (yarimo\u0027tkazgichlar fizikasi)\n— Ixtiro — texnik yechim (tranzistor, 1947)\n— Innovatsiya — amaliyotga joriy etish (kompyuterlar, smartfonlar)\n\nTarixiy misollar:\n— Arximed — suzuvchi jism qonuni → kema qurilishi asosi\n— Ibn Sino — «Tib qonunlari» — 1000 yil Yevropa universitetlari darsligi\n— Al-Xorazmiy — algebra fani va algoritm tushunchasi\n— Ulug\u0027bek — 1018 yulduz katalogi (zamonaviy hisobdan 1 daqiqa farq)\n— Nyuton — gravitatsiya qonuni → mexanika poydevori\n— Eynshteyn — E=mc² → yadro energetikasi\n— Uotson va Krik (1953) — DNK spiral tuzilishi → gen muhandisligi\n\nKashfiyot turlari:\n\nTur — Tavsif — Misol\nFundamental (nazariy) — Tabiiy qonuniyatlarni ochadi — Kvant mexanikasi, evolyutsiya nazariyasi\nEksperimental — Tajriba natijasida topilgan — Rentgen nurlari, atom yadrosi bo\u0027linishi\nAmaliy — Texnikaga bevosita asos — Grafen, yorug\u0027lik diodi fizikasi\nGeografik — Yangi hududlar — Kolumbning Amerika kashfiyoti (1492)\nTibbiy-biologik — Kasallik sababi yoki davosi — Jennerning chechak vaksinasi (1796)\nKashfiyotning me\u0027yoriy sifatlari:\n1. Obyektivlik — tabiatda allaqachon mavjud bo\u0027lgan hodisa, inson yaratmaydi, faqat topadi\n2. Yangilik — ilgari ilm-fanda ma\u0027lum bo\u0027lmagan bilim (O\u0027zbekistonda jahon miqyosidagi yangilik talab qilinadi)\n3. Ilmiy asoslanganlik — kuzatuv, tajriba, matematik isbot bilan tasdiqlanadi\n4. Qonuniyat mavjudligi — takrorlanadigan, qayta isbotlanishi mumkin bo\u0027lgan qonun\n5. Universallik — hudud, vaqt, shaxsdan mustaqil (Arximed qonuni hamma joyda amal qiladi)\n6. Fan taraqqiyotiga ta\u0027siri — yangi nazariyalar va ixtirolar uchun zamin yaratadi\n7. Mustaqillik — muallifning fikridan emas, tabiatdagi obyektiv haqiqatdan kelib chiqadi\n\nKashfiyot ilmiy ekspertizadan o\u0027tgandan keyin huquqiy jihatdan tan olinadi. Muallif O\u0027zbekiston Respublikasi patent idorasiga talabnoma beradi va ijobiy xulosada diplom, ahamiyatiga qarab pul mukofoti beriladi.",
+                   "slideTitles":  [
+                                       "Kashfiyot turlari",
+                                       "Kashfiyot tushunchasining me\u0027yoriy sifatlari",
+                                       "Kashfiyotning umumiy ta\u0027rifi va tarixiy kelib chiqishi"
+                                   ]
+               },
+    "glossary":  [
+                     {
+                         "term":  "Kashfiyot",
+                         "definition":  "Tabiat va jamiyatda ilgari noma\u0027lum bo\u0027lgan obyektiv qonuniyat yoki hodisani aniqlashga qaratilgan ilmiy faoliyat natijasi."
+                     },
+                     {
+                         "term":  "Ixtiro",
+                         "definition":  "Texnik masalalarga yangi, ilgari qo\u0027llanilmagan yechim topish orqali yaratilgan amaliy texnik yangilik."
+                     },
+                     {
+                         "term":  "Innovatsiya",
+                         "definition":  "Ilmiy-texnik faoliyat natijasini amaliyotga joriy qilish, iqtisodiy yoki ijtimoiy foyda keltiruvchi yangilik."
+                     },
+                     {
+                         "term":  "G\u0027oya",
+                         "definition":  "Kashfiyot yoki ixtiro uchun asos bo\u0027lgan dastlabki fikr, yechim konsepsiyasi."
+                     },
+                     {
+                         "term":  "Gipoteza",
+                         "definition":  "Tadqiqot jarayonida ilgari surilgan, lekin hali isbotlanmagan ilmiy taxmin."
+                     },
+                     {
+                         "term":  "Tadqiqot (ilmiy izlanish)",
+                         "definition":  "Yangi bilim olishga qaratilgan tizimli izlanishlar, nazariy va amaliy tajribalar majmui."
+                     },
+                     {
+                         "term":  "Eksperiment",
+                         "definition":  "Gipoteza, g\u0027oya yoki texnik yechimni tekshirish uchun maxsus sharoitda o\u0027tkaziladigan tajriba."
+                     },
+                     {
+                         "term":  "Patent",
+                         "definition":  "Ixtiro yoki texnik yangilik muallifiga beriladigan huquqiy hujjat bo\u0027lib, uning mualliflik huquqini himoya qiladi."
+                     },
+                     {
+                         "term":  "Patentga layoqatlilik",
+                         "definition":  "Ixtironing yangi bo\u0027lishi, ixtiro darajasi va sanoatda qo\u0027llanishi mumkinligi shartlariga javob berish holati."
+                     },
+                     {
+                         "term":  "Texnik masala",
+                         "definition":  "Muayyan texnik jarayonni takomillashtirish yoki muammoni hal qilishga qaratilgan amaliy vazifa."
+                     },
+                     {
+                         "term":  "Sanoat namunasi",
+                         "definition":  "Mahsulotning shakli, dizayni yoki tashqi ko\u0027rinishiga oid yangilik."
+                     },
+                     {
+                         "term":  "Rivojlantirish (Development)",
+                         "definition":  "Yaratilgan g\u0027oya yoki texnologiyani takomillashtirish, amaliyotga tayyor holga keltirish."
+                     },
+                     {
+                         "term":  "Tijoratlashtirish",
+                         "definition":  "Yangi yaratilgan mahsulot, texnologiya yoki kashfiyotni bozorga chiqarish jarayoni."
+                     },
+                     {
+                         "term":  "Texnik ijodkorlik",
+                         "definition":  "Texnik masalalarni hal qilishga qaratilgan ijodiy faoliyat turi."
+                     },
+                     {
+                         "term":  "TRIZ (Teoriya Resheniya Izobretatelskix Zadach)",
+                         "definition":  "Ixtirochilik masalalarini yechish nazariyasi; ijodiy fikrlashni rivojlantiruvchi metodlar tizimi."
+                     },
+                     {
+                         "term":  "R\u0026D (Research and Development)",
+                         "definition":  "Ilmiy-tadqiqot va tajriba-konstruktorlik ishlari majmuasi."
+                     },
+                     {
+                         "term":  "Know-how",
+                         "definition":  "Ishlab chiqarishda qo\u0027llaniladigan maxfiy texnik yechim, texnologik bilimlar to\u0027plami."
+                     },
+                     {
+                         "term":  "Fundamental tadqiqot",
+                         "definition":  "Asosiy ilmiy qonuniyatlarni aniqlashga qaratilgan nazariy izlanishlar."
+                     },
+                     {
+                         "term":  "Amaliy tadqiqot",
+                         "definition":  "Aniq masalani hal qilish uchun ilmiy bilimlarni qo\u0027llashga qaratilgan tadqiqot."
+                     },
+                     {
+                         "term":  "Innovatsion sikl",
+                         "definition":  "G\u0027oyadan to mahsulotni bozorga chiqarishgacha bo\u0027lgan to\u0027liq yangilik yaratish jarayoni."
+                     }
+                 ],
+    "crossword":  [
+                      {
+                          "orientation":  "Gorizontal",
+                          "clue":  "Ilmiy bilimlarni amaliy maqsadlarda qo\u0027llash natijasi. (11)",
+                          "answer":  "TEXNOLOGIYA"
+                      },
+                      {
+                          "orientation":  "Vertikal",
+                          "clue":  "Elektronika inqilobiga asos bo\u0027lgan yarimo\u0027tkazgichli qurilma. (10)",
+                          "answer":  "TRANZISTOR"
+                      },
+                      {
+                          "orientation":  "Vertikal",
+                          "clue":  "Ilmiy-texnik rivojlanishning uzluksiz jarayoni. (10)",
+                          "answer":  "TARAQQIYOT"
+                      },
+                      {
+                          "orientation":  "Vertikal",
+                          "clue":  "Ilgari noma\u0027lum bo\u0027lgan qonuniyat yoki hodisani aniqlash. (9)",
+                          "answer":  "KASHFIYOT"
+                      },
+                      {
+                          "orientation":  "Vertikal",
+                          "clue":  "Ulug\u0027bek tomonidan yulduzlarni kuzatish uchun qurilgan bino. (9)",
+                          "answer":  "RASADXONA"
+                      },
+                      {
+                          "orientation":  "Vertikal",
+                          "clue":  "Al-Xorazmiy nomi bilan bog\u0027liq, hisoblash qoidalari tizimi. (8)",
+                          "answer":  "ALGORITM"
+                      },
+                      {
+                          "orientation":  "Vertikal",
+                          "clue":  "Kashfiyotlarning real hayotda qo\u0027llanilishi. (8)",
+                          "answer":  "AMALIYOT"
+                      },
+                      {
+                          "orientation":  "Gorizontal",
+                          "clue":  "Ilmiy gipotezani sinash uchun o\u0027tkaziladigan amaliy sinov. (7)",
+                          "answer":  "TAJRIBA"
+                      },
+                      {
+                          "orientation":  "Gorizontal",
+                          "clue":  "Al-Xorazmiy tomonidan asos solingan matematika sohasi. (7)",
+                          "answer":  "ALGEBRA"
+                      },
+                      {
+                          "orientation":  "Gorizontal",
+                          "clue":  "Ilmiy kashfiyotlarning nazariy asosi, gipotezalar tizimi. (7)",
+                          "answer":  "TEORIYA"
+                      },
+                      {
+                          "orientation":  "Vertikal",
+                          "clue":  "Ilmiy izlanishlarda qo\u0027llaniladigan tizimli yondashuv. (5)",
+                          "answer":  "METOD"
+                      },
+                      {
+                          "orientation":  "Vertikal",
+                          "clue":  "Maks Plank asos solgan fizikaning kichik zarralar haqidagi bo\u0027limi. (5)",
+                          "answer":  "KVANT"
+                      }
+                  ],
+    "questions":  [
+                      "Kashfiyot tushunchasi deganda nimani tushunasiz?",
+                      "Kashfiyot turlarini tushuntiring.",
+                      "Kashfiyot tushunchasining me\u0027yoriy sifatlarini tushuntiring.",
+                      "Kashfiyotning yangiligini qanday asoslanadi?",
+                      "Kashfiyotning ishonchliligini tushuntiring."
+                  ],
+    "practical":  {
+                      "task":  "Tinkercad dasturida sodda kema (yelkanli qayiq) modelini loyihalash va modellashtirish.\n\nKema qurilishi tarixi qadimdan boshlanadi: dastlab qamish va papirusdan sol, keyin eshkakli va yelkanli kemalar, 1882-yilda birinchi bug\u0027 paroxodi (Angliya), 1894-yilda bug\u0027 turbinali kema «Turbiniya», 1902-yilda ichki yonuv dvigatelli kema «Vandal» (Rossiya), keyinchalik atom kemalar paydo bo\u0027ldi. Kolumb 1492-yilda «Santa Mariya» yelkanli karavellasida Amerikani kashf etdi. Kemaning asosiy qismlari: korpus (tanasi), yelkanlar, ustun (mast), kabina, rul.",
+                      "requirement":  "**Kerakli vositalar:** Kompyuter yoki planshet (internetga ulangan), Tinkercad.com saytida bepul akkaunt, sichqoncha.\n\n**Bosqich 1 — Korpus (kema tanasi):**\nBox shaklini qo\u0027ying va cho\u0027ziq qiling: uzunligi 120 mm, kengligi 40 mm, balandligi 20 mm. Pastki qismini yumaloq qilish uchun Cylinder yoki Wedge shakllarini Hole qilib guruhlang. Uchini o\u0027tkir qilish uchun Roof yoki Cone qo\u0027shing.\n\n**Bosqich 2 — Kabina va ustun:**\nKichik Box qo\u0027shing (kabina): uzunligi 50 mm, kengligi 30 mm, balandligi 20 mm. Align vositasi bilan markazlashtiring. Ustun uchun Cylinder: balandligi 80 mm, diametri 10 mm, korpus o\u0027rtasiga.\n\n**Bosqich 3 — Yelkanlar:**\nRoof yoki Triangle shaklini 2–3 marta nusxa oling (balandligi 70 mm, kengligi 50 mm). Ustunga simmetrik joylashtiring va Rotate bilan burang.\n\n**Ixtiyoriy:** Derazalar uchun Hole teshiklar; rul yoki bayroq (Box va Star); motorli kema uchun pervanel.\n\n**Yakuniy ishlar:** Barcha qismlarni Group qiling. Ranglar qo\u0027shing (oq korpus, qizil yelkanlar, ko\u0027k kabina). Modelni turli tomondan tekshiring.\n\n**Uy vazifasi:** Modelni STL formatida eksport qilib, 4–5 tarafdan skrinshot oling va qisqa izoh yozing (kemaning xususiyatlari va yaxshilash g\u0027oyalari)."
+                  },
+    "test":  [
+                 {
+                     "question":  "«Kashfiyot» nima?",
+                     "options":  [
+                                     "Inson tomonidan yaratilgan texnik qurilma",
+                                     "Tabiatda mavjud, ammo ilgari noma\u0027lum hodisani ilmiy ochish",
+                                     "Mualliflik huquqi obyekti",
+                                     "Texnologik jarayon"
+                                 ],
+                     "correctIndex":  1
+                 },
+                 {
+                     "question":  "Kashfiyotning asosiy belgilaridan biri?",
+                     "options":  [
+                                     "Patentlanishi",
+                                     "Sub\u0027ektiv yaratilishi",
+                                     "Ob\u0027ektiv mavjud bo\u0027lishi",
+                                     "Faqat texnikaga tegishli bo\u0027lishi"
+                                 ],
+                     "correctIndex":  2
+                 },
+                 {
+                     "question":  "Kashfiyot jarayoni qaysi bosqichdan boshlanadi?",
+                     "options":  [
+                                     "Tajriba o\u0027tkazish",
+                                     "Gipoteza yaratish",
+                                     "Muammoni aniqlash",
+                                     "Xulosaga kelish"
+                                 ],
+                     "correctIndex":  2
+                 },
+                 {
+                     "question":  "Gipoteza — bu:",
+                     "options":  [
+                                     "Amaliy tajriba",
+                                     "Taxminiy ilmiy tushuntirish",
+                                     "Tayyor nazariya",
+                                     "Qonun"
+                                 ],
+                     "correctIndex":  1
+                 },
+                 {
+                     "question":  "Kashfiyotning ixtirodan farqi:",
+                     "options":  [
+                                     "Ixtiro universal, kashfiyot mahalliy",
+                                     "Ixtiro tabiatni ochadi, kashfiyot texnikani yaratadi",
+                                     "Ixtiro yaratiladi, kashfiyot topiladi",
+                                     "Farqi yo\u0027q"
+                                 ],
+                     "correctIndex":  2
+                 },
+                 {
+                     "question":  "Kashfiyot ilm-fanda qanday o\u0027rin tutadi?",
+                     "options":  [
+                                     "Faqat amaliy bilim beradi",
+                                     "Fan uchun yangi qonuniyat yaratadi",
+                                     "Texnologiyani cheklaydi",
+                                     "Faqat kimyo faniga tegishli"
+                                 ],
+                     "correctIndex":  1
+                 },
+                 {
+                     "question":  "Ilmiy isbotlashning maqsadi:",
+                     "options":  [
+                                     "Fikrni bezash",
+                                     "G\u0027oyani reklama qilish",
+                                     "Gipotezani ilmiy tasdiqlash",
+                                     "Endi tajriba qilmaslik"
+                                 ],
+                     "correctIndex":  2
+                 },
+                 {
+                     "question":  "Ilmiy kashfiyot kim tomonidan tan olinishi kerak?",
+                     "options":  [
+                                     "Mahalla",
+                                     "Do\u0027stlar guruhi",
+                                     "Ilmiy jamoatchilik",
+                                     "Davlat soliq idorasi"
+                                 ],
+                     "correctIndex":  2
+                 },
+                 {
+                     "question":  "Qaysi biri kashfiyot jarayoni bosqichiga kirmaydi?",
+                     "options":  [
+                                     "Kuzatish",
+                                     "Gipoteza yaratish",
+                                     "Reklama qilish",
+                                     "Tajribalar o\u0027tkazish"
+                                 ],
+                     "correctIndex":  2
+                 },
+                 {
+                     "question":  "DNK tuzilishini kimlar kashf etgan?",
+                     "options":  [
+                                     "Baytlash va Ibn Sino",
+                                     "Nyuton va Leybnits",
+                                     "Uotson va Krik",
+                                     "Arximed"
+                                 ],
+                     "correctIndex":  2
+                 }
+             ],
+    "resources":  [
+                      {
+                          "title":  "5-mavzu taqdimot slaydlari",
+                          "type":  "article",
+                          "description":  "Kashfiyot tushunchasi, turlari, me\u0027yoriy sifatlari va tarixiy misollar bo\u0027yicha ma\u0027ruza slaydlari.",
+                          "url":  "assets/materials/topic_5/resurs/5_resurs.pptx"
+                      },
+                      {
+                          "title":  "O\u0027zbekiston buyuk olimlari — kashfiyotlar tarixi",
+                          "type":  "article",
+                          "description":  "Al-Xorazmiy, Ibn Sino, Beruniy, Ulug\u0027bek kashfiyotlari va ularning jahon fani taraqqiyotiga ta\u0027siri.",
+                          "url":  ""
+                      },
+                      {
+                          "title":  "TRIZ — ixtirochilik masalalarini yechish nazariyasi",
+                          "type":  "article",
+                          "description":  "Genrix Altshuller tomonidan ishlab chiqilgan ijodiy muammo yechish metodikasi va uning texnik ijodkorlikdagi ahamiyati.",
+                          "url":  ""
+                      }
+                  ]
+}

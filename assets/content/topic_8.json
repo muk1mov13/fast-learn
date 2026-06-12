@@ -1,0 +1,313 @@
+﻿{
+    "id":  8,
+    "order":  8,
+    "title":  "Texnik konstruksiyalash va modellashtirish",
+    "isUnlocked":  false,
+    "video":  {
+                  "title":  "Mavzuga kirish videosi",
+                  "duration":  "",
+                  "youtubeId":  "pENbFSv06BA"
+              },
+    "lesson":  {
+                   "title":  "Texnik konstruksiyalash va modellashtirish",
+                   "bodyMarkdown":  "Sanoat-texnik mahsulotlarning badiiy jihatdan maqsadga muvofiqligi, ularga estetik tus berish — olimlar, injenerlar va ishlab chiqarish xodimlarining muhim vazifasidir. Qo\u0027lay va chiroyli buyumlar yaratishga qaratilgan badiiy konstruksiyalash (dizayn) ning diqqat markazida hamisha odam, uning ijtimoiy va individual ehtiyojlari, iste\u0027mol va ma\u0027naviy talablari turadi. Har bir buyumning qimmati ikki asosni — foyda va go\u0027zallikni qamrab oladi.\n\nDizayn — inglizcha so\u0027z bo\u0027lib, chiroyli, shinam, yangi loyiha degan ma\u0027noni anglatadi. Dizayn nazariyasi hozirgi kunda texnik estetika deb nomlanib, ijtimoiy, iqtisodiy va ergonomik masalalarni o\u0027z ichiga oladi. Yaratilayotgan har qanday ob\u0027ekt ma\u0027lum vazifani (funksiyani) bajarishga qaratilgan bo\u0027lib, uning shakli va o\u0027lchami funksiyasiga mos kelishi kerak — bu dizaynning asosiy tamoyilidir.\n\nBadiiy modellashtirishning asosiy elementlari: buyumning tashqi formasi (paralelepiped, prizma, silindr, konus kabi geometrik shakllar); proporsiya — kontrastli va farqli nisbatlar (hajm, chiziqli miqdorlar, faktura, rang); kompozitsiya — qismlarning yaxlit va muvozanatli joylashuvi; garmonik forma — go\u0027zallik qonunlari asosida yaratilgan, proporsional va ritmik bo\u0027lib, odamga mos plastik tuzilish.\n\nKonstruksiyalash jarayoni quyidagi bosqichlardan iborat: (1) rejalashtirish — loyiha maqsadlari, texnik va iqtisodiy parametrlar, resurslar va vaqtni aniqlash; (2) dizayn — texnik chizmalar, modellar va hujjatlar tayyorlash; (3) ishlab chiqish — prototiplar va sinovlar; (4) amalga oshirish — tayyor mahsulotni ishlab chiqarish va nazorat.\n\nTexnik loyihalashda qo\u0027llaniladigan metodlar: morfologik jadval (har bir qism uchun barcha variantlarni ro\u0027yxatga olish), amal va xato (turli variantlarni sinab ko\u0027rish — oddiy mexanik qurilmalar uchun qulay), aqliy hujum (guruhda tanqidsiz ko\u0027p g\u0027oya ishlab chiqarish), sinektika (boshqa sohalardan analogiya olish orqali yangi fikr yaratish).\n\nZamonaviy vositalar: AutoCAD, SolidWorks, CATIA — uch o\u0027lchamli modellar yaratish; Tinkercad — bepul onlayn 3D modellashtirish; 3D printerlar — qatlam-qatlam bosib chiqarish texnologiyasi; Arduino — ochiq kodli elektronika platformasi. Sun\u0027iy intellekt, raqamli egizaklar va 3D bosib chiqarish texnologiyalari konstruksiyalash jarayonlarini tezlashtiradi va aniqlikni oshiradi.",
+                   "slideTitles":  [
+                                       "Texnik ob\u0027yektlarni konstruksiyalash va modellashtirish",
+                                       "Texnik loyihalash va modellashtirishning metodlari",
+                                       "Badiiy modellashtirish va dizayn"
+                                   ]
+               },
+    "glossary":  [
+                     {
+                         "term":  "Texnik modellashtirish",
+                         "definition":  "Haqiqiy texnik ob\u0027yektning ishlaydigan kichraytirilgan yoki to\u0027liq o\u0027lchamdagi nusxasini yaratish."
+                     },
+                     {
+                         "term":  "Badiiy modellashtirish",
+                         "definition":  "Buyumning estetik shakli, rangi va kompozitsiyasini loyihalash."
+                     },
+                     {
+                         "term":  "Dizayn",
+                         "definition":  "Texnik ob\u0027yektlarga funksional va estetik jihatdan mukammallik berish jarayoni."
+                     },
+                     {
+                         "term":  "Konstruksiyalash",
+                         "definition":  "Ob\u0027yektning ichki tuzilishi va mustahkamligini loyihalash."
+                     },
+                     {
+                         "term":  "Ergonomika",
+                         "definition":  "Inson va texnika o\u0027rtasidagi qulaylik va xavfsizlikni ta\u0027minlash ilmi."
+                     },
+                     {
+                         "term":  "Funksionallik",
+                         "definition":  "Modelning asosiy vazifasini bajarishi."
+                     },
+                     {
+                         "term":  "Estetika",
+                         "definition":  "Buyumning tashqi go\u0027zalligi va uyg\u0027unligi."
+                     },
+                     {
+                         "term":  "Kompozitsiya",
+                         "definition":  "Buyum qismlarining yaxlit va muvozanatli joylashuvi."
+                     },
+                     {
+                         "term":  "Proporsiya",
+                         "definition":  "Qismlar o\u0027lchamlarining bir-biriga mosligi."
+                     },
+                     {
+                         "term":  "Texnologik karta",
+                         "definition":  "Model yasashning bosqichma-bosqich ko\u0027rsatmasi."
+                     },
+                     {
+                         "term":  "Prototip",
+                         "definition":  "Birinchi ishlaydigan sinov modeli."
+                     },
+                     {
+                         "term":  "Masshtab",
+                         "definition":  "Haqiqiy ob\u0027yekt va model o\u0027lchamlari nisbati (1:24, 1:50 va h.k.)."
+                     },
+                     {
+                         "term":  "Morfologik jadval",
+                         "definition":  "Har bir qism uchun barcha variantlarni ro\u0027yxatga olish usuli."
+                     },
+                     {
+                         "term":  "Amal va xato",
+                         "definition":  "Turli variantlarni sinab ko\u0027rish orqali yechim topish."
+                     },
+                     {
+                         "term":  "Aqliy hujum",
+                         "definition":  "Guruhda tanqidsiz ko\u0027p g\u0027oya ishlab chiqarish."
+                     },
+                     {
+                         "term":  "Sinektika",
+                         "definition":  "Boshqa sohalardan analogiya olish orqali yangi fikr yaratish."
+                     },
+                     {
+                         "term":  "Maket",
+                         "definition":  "Faqat tashqi ko\u0027rinishni ko\u0027rsatuvchi model (ishlamaydi)."
+                     },
+                     {
+                         "term":  "Nisbat (ritm)",
+                         "definition":  "Qismlarning takrorlanishi va muvozanati."
+                     },
+                     {
+                         "term":  "Texnik estetika",
+                         "definition":  "Dizaynning ilmiy asosi, shakl va mazmun uyg\u0027unligi."
+                     },
+                     {
+                         "term":  "Shakl mazmunni aks ettirishi",
+                         "definition":  "Dizaynning asosiy tamoyili: tashqi ko\u0027rinish funksiyani ifodalashi kerak."
+                     }
+                 ],
+    "crossword":  [
+                      {
+                          "orientation":  "Gorizontal",
+                          "clue":  "Real ob\u0027ektning kichraytirilgan yoki raqamli nusxasini yaratish jarayoni. (15)",
+                          "answer":  "MODELLASHTIRISH"
+                      },
+                      {
+                          "orientation":  "Vertikal",
+                          "clue":  "Korxonada kichik tejamkor yechim taklif qiluvchi shaxs. (14)",
+                          "answer":  "RASIONALIZATOR"
+                      },
+                      {
+                          "orientation":  "Vertikal",
+                          "clue":  "Material sarfini kamaytirish va bardoshlikni oshirish jarayoni. (13)",
+                          "answer":  "OPTIMIZATSIYA"
+                      },
+                      {
+                          "orientation":  "Vertikal",
+                          "clue":  "Texnik ob\u0027ektning asosiy tuzilmasi. (12)",
+                          "answer":  "KONSTRUKSIYA"
+                      },
+                      {
+                          "orientation":  "Vertikal",
+                          "clue":  "Autodesk\u0027ning bepul onlayn 3D modellashtirish platformasi. (9)",
+                          "answer":  "TINKERCAD"
+                      },
+                      {
+                          "orientation":  "Vertikal",
+                          "clue":  "Tez va arzon ishlaydigan birinchi model. (8)",
+                          "answer":  "PROTOTIP"
+                      },
+                      {
+                          "orientation":  "Gorizontal",
+                          "clue":  "Qatlam-qatlam bosib chiqarish texnologiyasi qurilmasi. (7)",
+                          "answer":  "PRINTER"
+                      },
+                      {
+                          "orientation":  "Vertikal",
+                          "clue":  "3D modelni printer tushunadigan qatlamlarga bo\u0027lish jarayoni. (7)",
+                          "answer":  "SLICING"
+                      },
+                      {
+                          "orientation":  "Vertikal",
+                          "clue":  "Ochiq kodli elektronika platformasi. (7)",
+                          "answer":  "ARDUINO"
+                      },
+                      {
+                          "orientation":  "Gorizontal",
+                          "clue":  "3D da o\u0027ylay olish qobiliyatini ifodalovchi tasavvur turi. (7)",
+                          "answer":  "FAZOVIY"
+                      },
+                      {
+                          "orientation":  "Vertikal",
+                          "clue":  "O\u0027quvchilarga 3 yil bepul beriladigan professional 3D CAD/CAM dasturining birinchi nomi. (6)",
+                          "answer":  "FUSION"
+                      },
+                      {
+                          "orientation":  "Gorizontal",
+                          "clue":  "Muhitni o\u0027lchaydigan qurilma (namlik, harorat, harakat). (6)",
+                          "answer":  "SENSOR"
+                      },
+                      {
+                          "orientation":  "Vertikal",
+                          "clue":  "3D printer uchun bepul slicing dasturi. (4)",
+                          "answer":  "CURA"
+                      },
+                      {
+                          "orientation":  "Gorizontal",
+                          "clue":  "3D printerning buyruq tili. (4)",
+                          "answer":  "GKOD"
+                      }
+                  ],
+    "questions":  [
+                      "Texnik modellashtirish va badiiy modellashtirishning asosiy farqi nimada?",
+                      "Texnik ob\u0027yektni konstruksiyalashda \"funksionallik – estetika – ergonomika\" uchligining o\u0027rni qanday?",
+                      "Texnik loyihalashda \"amal va xato\" va \"morfologik jadval\" metodlari qachon va qanday qo\u0027llaniladi?",
+                      "Badiiy konstruksiyalashda kompozitsiyaning yaxlitligi va uyg\u0027unligi qanday ta\u0027minlanadi?",
+                      "Texnik dizaynda shakl mazmunni aks ettirishi tamoyilining amaliy ahamiyati nimada?"
+                  ],
+    "practical":  {
+                      "task":  "O\u0027quvchilar texnik ijodkorligining pedagogik va psixologik xususiyatlari",
+                      "requirement":  "Texnik ijodkorlikning psixologik xususiyatlarini (ichki motivatsiya, kreativ fikrlash, sinov va xato orqali o\u0027rganish) va pedagogik xususiyatlarini (PBL, STEAM yondashuvi, o\u0027qituvchining yo\u0027l ko\u0027rsatuvchi roli) tahlil qiling. Topshiriq 1 (individual): oldingi mashg\u0027ulotlarda yaratgan modelingizga (avtomobil, kema, uy va h.k.) qo\u0027shgan ijodiy elementni va uning sababini yozing. O\u0027quvchilarda texnik ijodkorlikni rivojlantirish uchun bir pedagogik usul taklif qiling. Topshiriq 2 (guruh): \"Ideal texnik ijodkorlik darsi\"ni loyihalang — mavzu, motivatsiya usullari, pedagogik yondashuv va bir ijodiy topshiriqni plakat yoki mind-map shaklida taqdim eting."
+                  },
+    "test":  [
+                 {
+                     "question":  "\"Dizayn\" so'zi inglizcha \"design\" so'zidan olingan bo'lib, qanday ma'noni anglatadi?",
+                     "options":  [
+                                     "Faqat rang tanlash",
+                                     "Loyihalash, rejalashtirish",
+                                     "Material tayyorlash",
+                                     "Buyumni sotish"
+                                 ],
+                     "correctIndex":  1
+                 },
+                 {
+                     "question":  "Buyumning qimmati qaysi ikki asosni qamrab oladi?",
+                     "options":  [
+                                     "Narx va og'irlik",
+                                     "Foyda va go'zallik",
+                                     "Hajm va rang",
+                                     "Vaqt va material"
+                                 ],
+                     "correctIndex":  1
+                 },
+                 {
+                     "question":  "Texnik ob'yektlarni konstruksiyalash va modellashtirish — bu nima?",
+                     "options":  [
+                                     "Tayyor buyumni sotish jarayoni",
+                                     "Faqat chizma chizish",
+                                     "Haqiqiy texnika namunalarining kichraytirilgan yoki to'liq o'lchamli ishlaydigan nusxasini yaratish jarayoni",
+                                     "Materiallarni tashish"
+                                 ],
+                     "correctIndex":  2
+                 },
+                 {
+                     "question":  "Texnik modellashtirishning asosiy tamoyillaridan biri quyidagilardan qaysi biri EMAS?",
+                     "options":  [
+                                     "Funksionallik",
+                                     "Estetika",
+                                     "Ergonomika va xavfsizlik",
+                                     "Buyumni qimmatga sotish"
+                                 ],
+                     "correctIndex":  3
+                 },
+                 {
+                     "question":  "Badiiy modellashtirish nimani birlashtiradi?",
+                     "options":  [
+                                     "Faqat texnik hisob-kitoblarni",
+                                     "Estetik va funksional jihatlarni",
+                                     "Faqat iqtisodiy ko'rsatkichlarni",
+                                     "Faqat materiallar sonini"
+                                 ],
+                     "correctIndex":  1
+                 },
+                 {
+                     "question":  "Garmonik shakl qanday xususiyatlarga ega bo'ladi?",
+                     "options":  [
+                                     "Faqat katta hajmli",
+                                     "Tartibsiz va nomutanosib",
+                                     "Yaxlit, proporsional va ritmik, inson va atrof-muhitga mos",
+                                     "Faqat bir rangli"
+                                 ],
+                     "correctIndex":  2
+                 },
+                 {
+                     "question":  "Ergonomika nimani ta'minlashga qaratilgan?",
+                     "options":  [
+                                     "Buyumning narxini oshirishni",
+                                     "Inson va buyum o'rtasidagi qulaylik va xavfsizlikni",
+                                     "Faqat buyum og'irligini",
+                                     "Material tejashni"
+                                 ],
+                     "correctIndex":  1
+                 },
+                 {
+                     "question":  "Loyihalash ishlari odatda nimadan boshlanadi?",
+                     "options":  [
+                                     "Buyumni darrov yasashdan",
+                                     "Mavzu (ma'lumot) yig'ish va tahlil qilishdan",
+                                     "Buyumni sotishdan",
+                                     "Reklama tayyorlashdan"
+                                 ],
+                     "correctIndex":  1
+                 },
+                 {
+                     "question":  "To'garakda rahbarning asosiy vazifasi (Sokratik usul) nimadan iborat?",
+                     "options":  [
+                                     "O'quvchiga tayyor javobni berib qo'yish",
+                                     "O'quvchini metodlarni qo'llashga yo'naltirib, o'zi yechim topishiga undash",
+                                     "Faqat xatolarni topish",
+                                     "O'quvchi o'rniga modelni yasab berish"
+                                 ],
+                     "correctIndex":  1
+                 },
+                 {
+                     "question":  "Texnikaning rivojlanish xususiyatlaridan biri \"sakrashli rivojlanish\" deganda nima nazarda tutiladi?",
+                     "options":  [
+                                     "Texnika umuman o'zgarmaydi",
+                                     "Texnika faqat sekin-asta takomillashadi",
+                                     "Texnika keskin o'zgarishlar (olov, bug', elektr, atom energiyasi) orqali rivojlanadi",
+                                     "Texnika faqat bir sohada qo'llaniladi"
+                                 ],
+                     "correctIndex":  2
+                 }
+             ],
+    "resources":  [
+                      {
+                          "title":  "8-mavzu taqdimot slaydlari",
+                          "type":  "article",
+                          "description":  "8-mavzu bo\u0027yicha ma\u0027ruza slaydlari to\u0027plami.",
+                          "url":  "assets/materials/topic_8/resurs/8_resurs.pptx"
+                      },
+                      {
+                          "title":  "Sh.Sharipov, N.Muslimov — \"Texnik ijodkorlik va dizayn\"",
+                          "type":  "book",
+                          "description":  "Texnik ijodkorlik, konstruksiyalash va dizayn asoslarini o\u0027rgatuvchi o\u0027quv qo\u0027llanma. Toshkent, 2011.",
+                          "url":  ""
+                      },
+                      {
+                          "title":  "H.O.Uzoqov va boshqalar — \"Texnik ijodkorlik va konstruksiyalash\"",
+                          "type":  "book",
+                          "description":  "Texnik ijodkorlik va konstruksiyalash bo\u0027yicha kompleks o\u0027quv qo\u0027llanma. Kamolot nashriyoti, Buxoro, 2022.",
+                          "url":  ""
+                      },
+                      {
+                          "title":  "Tinkercad — bepul 3D modellashtirish vositasi",
+                          "type":  "link",
+                          "description":  "Autodesk\u0027ning bepul onlayn 3D loyihalash platformasi. Uy, avtomobil, mexanizm maketlari yaratish uchun qulay. tinkercad.com",
+                          "url":  ""
+                      }
+                  ]
+}

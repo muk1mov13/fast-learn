@@ -1,0 +1,76 @@
+Flutter crash report.
+Please report a bug at https://github.com/flutter/flutter/issues.
+
+## command
+
+flutter analyze
+
+## exception
+
+_Exception: Exception: analysis server exited with code -1073740791 and output:
+[stderr]   pc 0x0000013b6cb29af6 fp 0x00000006d26fec98 sp 0x00000006d26feb78 [Optimized] AnalysisDriver._produceErrors@23237046.<anonymous closure>+0x45e
+[stderr]   pc 0x0000013b6c5ea23f fp 0x00000006d26fed28 sp 0x00000006d26feca8 [Optimized] OperationPerformanceImpl.run+0x6b
+[stderr]   pc 0x0000013b6cb294e8 fp 0x00000006d26fedc0 sp 0x00000006d26fed38 [Optimized] AnalysisDriver._produceErrors@23237046+0xd4
+[stderr]   pc 0x0000013b6cb2937f fp 0x00000006d26fee70 sp 0x00000006d26fedd0 [Optimized] AnalysisDriver.performWork+0x4c7
+[stderr]   pc 0x0000013b6cb28c3e fp 0x00000006d26fef10 sp 0x00000006d26fee80 [Optimized] AnalysisDriverScheduler._run@23237046+0x772
+[stderr]   pc 0x0000013b6ce7a860 fp 0x00000006d26fef40 sp 0x00000006d26fef20 [Optimized] _SuspendState@5048458._createAsyncStarCallback@5048458.<anonymous closure>+0x48
+[stderr]   pc 0x0000013b6c4fbc60 fp 0x00000006d26fefc0 sp 0x00000006d26fef50 [Optimized] _rootRunUnary@5048458+0x6c
+[stderr]   pc 0x0000013b6c4fbd61 fp 0x00000006d26ff000 sp 0x00000006d26fefd0 [Optimized] _rootRunUnary@5048458+0x91
+[stderr]   pc 0x0000013b6ce7ba82 fp 0x00000006d26ff078 sp 0x00000006d26ff010 [Optimized] _SuspendState@5048458._awaitCompletedFuture@5048458.run+0x262
+[stderr]   pc 0x0000013b6c4fcad8 fp 0x00000006d26ff0f0 sp 0x00000006d26ff088 [Optimized] _rootRun@5048458+0x8c
+[stderr]   pc 0x0000013b6c4fcb9c fp 0x00000006d26ff128 sp 0x00000006d26ff100 [Optimized] _rootRun@5048458+0x88
+[stderr]   pc 0x0000013b6ccfe51a fp 0x00000006d26ff188 sp 0x00000006d26ff138 [Optimized] _CustomZone@5048458.run+0x19e
+[stderr]   pc 0x0000013b6cdec810 fp 0x00000006d26ff208 sp 0x00000006d26ff198 [Optimized] _CustomZone@5048458.runGuarded+0x38
+[stderr]   pc 0x0000013b6cd01a17 fp 0x00000006d26ff218 sp 0x00000006d26ff218 [Optimized] _CustomZone@5048458.bindCallbackGuarded.<anonymous closure>+0x23
+[stderr]   pc 0x0000013b6c4c6c4f fp 0x00000006d26ff238 sp 0x00000006d26ff228 [Optimized] _microtaskLoop@5048458+0xd7
+[stderr]   pc 0x0000013b6c4c6ac1 fp 0x00000006d26ff288 sp 0x00000006d26ff248 [Optimized] _startMicrotaskLoop@5048458+0x29
+[stderr]   pc 0x0000013b6c4c6a87 fp 0x00000006d26ff298 sp 0x00000006d26ff298 [Optimized] _startMicrotaskLoop@5048458+0x13
+[stderr]   pc 0x0000013b6c4c26c1 fp 0x00000006d26ff2b0 sp 0x00000006d26ff2a8 [Optimized] _runPendingImmediateCallback@1026248+0x4d
+[stderr]   pc 0x0000013b6c4c265d fp 0x00000006d26ff2d8 sp 0x00000006d26ff2c0 [Optimized] _RawReceivePort@1026248._handleMessage@1026248+0xcd
+[stderr]   pc 0x0000013b6943c6cb fp 0x00000006d26ff400 sp 0x00000006d26ff2e8 [Stub] Entry frame
+
+```
+```
+
+## flutter doctor
+
+```
+[✓] Flutter (Channel stable, 3.44.0, on Microsoft Windows [Version 10.0.26200.8457], locale ru-RU) [1 540ms]
+    • Flutter version 3.44.0 on channel stable at D:\flutter
+    • Upstream repository https://github.com/flutter/flutter.git
+    • Framework revision 559ffa3f75 (4 weeks ago), 2026-05-15 14:13:13 -0700
+    • Engine revision 4c525dac5e
+    • Dart version 3.12.0
+    • DevTools version 2.57.0
+    • Feature flags: enable-web, enable-linux-desktop, enable-macos-desktop, enable-windows-desktop, enable-android, enable-ios, cli-animations, enable-native-assets, enable-swift-package-manager, omit-legacy-version-file, enable-lldb-debugging, enable-uiscene-migration
+
+[✓] Windows Version (11 Pro 64-bit, 25H2, 2009) [3,3s]
+
+[!] Android toolchain - develop for Android devices (Android SDK version 36.0.0) [2,7s]
+    • Android SDK at D:\Android\Sdk
+    • Emulator version 36.6.11.0 (build_id 15507667) (CL:N/A)
+    • Platform android-36.1, build-tools 36.0.0
+    • ANDROID_HOME = D:\Android\Sdk
+    • ANDROID_SDK_ROOT = D:\Android\Sdk
+    ✗ Android SDK file not found: D:\Android\Sdk\build-tools\36.0.0\aapt.
+    • Try re-installing or updating your Android SDK,
+      visit https://flutter.dev/to/windows-android-setup for detailed instructions.
+
+[✓] Chrome - develop for the web [11ms]
+    • Chrome at C:\Program Files\Google\Chrome\Application\chrome.exe
+
+[✗] Visual Studio - develop Windows apps [10ms]
+    ✗ Visual Studio not installed; this is necessary to develop Windows apps.
+      Download at https://visualstudio.microsoft.com/downloads/.
+      Please install the "Desktop development with C++" workload, including all of its default components
+
+[✓] Connected device (3 available) [1 127ms]
+    • Windows (desktop) • windows • windows-x64    • Microsoft Windows [Version 10.0.26200.8457]
+    • Chrome (web)      • chrome  • web-javascript • Google Chrome 149.0.7827.53
+    • Edge (web)        • edge    • web-javascript • Microsoft Edge 149.0.4022.52
+
+[✓] Network resources [1 579ms]
+    • All expected network resources are available.
+
+! Doctor found issues in 2 categories.
+```

@@ -3,20 +3,23 @@ import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:texnik_ijodkorlik/data/models/models.dart';
+import 'package:texnik_ijodkorlik/data/repositories/progress_repository.dart';
 import 'package:texnik_ijodkorlik/features/topic/stages/video_stage.dart';
+import 'package:texnik_ijodkorlik/state/providers.dart';
 
 Topic _emptyVideoTopic() => const Topic(
       id: 1,
       order: 1,
       title: 'Test',
       baseUnlocked: true,
-      video: VideoItem(title: '', duration: '', assetPath: ''),
+      video: VideoItem(title: '', duration: '', youtubeId: ''),
       lesson: Lesson(title: '', bodyMarkdown: '', slideTitles: []),
       glossary: [],
       crossword: [],
       questions: [],
       practical: PracticalTask(task: '', requirement: ''),
       test: [],
+      resources: [],
     );
 
 void main() {
@@ -27,6 +30,11 @@ void main() {
         (tester) async {
       await tester.pumpWidget(
         ProviderScope(
+          overrides: [
+            // Test Firebase'siz ishlashi uchun lokal repo bilan override.
+            progressRepoProvider
+                .overrideWithValue(SharedPrefsProgressRepository()),
+          ],
           child: MaterialApp(
             home: Scaffold(body: VideoStage(topic: _emptyVideoTopic())),
           ),
@@ -48,9 +56,14 @@ void main() {
       expect(find.text('Bu bosqich yakunlangan'), findsNothing);
     });
 
-    testWidgets('no progress text when assetPath is empty', (tester) async {
+    testWidgets('no progress text when youtubeId is empty', (tester) async {
       await tester.pumpWidget(
         ProviderScope(
+          overrides: [
+            // Test Firebase'siz ishlashi uchun lokal repo bilan override.
+            progressRepoProvider
+                .overrideWithValue(SharedPrefsProgressRepository()),
+          ],
           child: MaterialApp(
             home: Scaffold(body: VideoStage(topic: _emptyVideoTopic())),
           ),

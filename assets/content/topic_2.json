@@ -1,0 +1,332 @@
+﻿{
+    "id":  2,
+    "order":  2,
+    "title":  "Texnik ijodkorlik va konstruksiyalashning o\u0027ziga xos xususiyatlari. Ilmiy ijodkorlik",
+    "isUnlocked":  false,
+    "video":  {
+                  "title":  "Mavzuga kirish videosi",
+                  "duration":  "",
+                  "youtubeId":  "xkUszaM0YLU"
+              },
+    "lesson":  {
+                   "title":  "Ma\u0027ruza matni",
+                   "bodyMarkdown":  "2-MAVZU: Texnik ijodkorlik va konstruksiyalashni o\u0027ziga xos xususiyatlari. Ilmiy ijodkorlik jarayonida mantiqiy va intuitiv tafakkurning ahamiyati.\n\nReja:\n1. Texnik ob\u0027yektlarni konstruksiyalash va modellashtirish\n2. Texnik loyihalash va modellashtirishning metodlari\n3. Badiiy-modellashtirish va dizayn\n\n\"Texnik ijodkorlik va konstruksiyalash\" fani bugungi texnologik jamiyatda ishlab chiqarish, loyihalash hamda muammolarni yaratish-bartaraf etish jarayonida katta ahamiyat kasb etadi. O\u0027z navbatida, \"ilmiy ijodkorlik\" jarayonida mantiqiy (rational) va intuitiv (instinktiv) tafakkur usullari o\u0027zaro uyg\u0027un ishlaganda, konstruktorlik va dizayn sohalarida innovatsion yechimlar yaratiladi. O\u0027zbekistonda axborot-ta\u0027lim maydoni, patent va ratsionalizatorlik faoliyati orqali texnik ijodkorlikni rivojlantirish maqsadi qo\u0027yilgan.\n\nTexnik ijodkorlik — muayyan texnik masalani, konstruktsiyani yoki loyihani yaratish jarayonida ijodiy yondashuv bilan ishlash demakdir. Konstruksiyalash (konstruktorlik) esa — buyum, tizim yoki modelni loyihalash, modellashtirish va amalga oshirish bosqichlarini o\u0027z ichiga oladi.\n\nO\u0027ziga xos xususiyatlari:\n— Muammoni aniqlash: texnik ob\u0027yekt konstruktsiyasida nimani yaratish zarurligi aniq belgilanadi\n— Ijodiy g\u0027oya: standartlardan tashqari innovatsion yechimlar qidiriladi\n— Texnik–material asoslar: konstruktsiya materiali, modellashtirish, ergonomika, xavfsizlik kabi jihatlar e\u0027tiborda bo\u0027ladi\n— Chaqiriq va cheklovlar bilan ishlash: byudjet, ishlab chiqarish imkoniyatlari, norma-me\u0027yorlar va patentlar hisobga olinadi\n\nUshbu jihatlar — texnik ijodkorlik va konstruksiyalash faoliyatini oddiy ijodiy jarayondan farqlantiradi.\n\nKonstruksiyalash jarayoni tipik ravishda quyidagi bosqichlarni o\u0027z ichiga oladi:\n1. Muammoni aniqlash va talablarni belgilash\n2. G\u0027oyalarni ishlab chiqish, modellashtirish (sketch, CAD, prototip)\n3. Texnik hujjatlar tayyorlash (chizmalar, spetsifikatsiyalar)\n4. Ishlab chiqarishga va real foydalanishga tayyorlash\n\nBu bosqichlar «texnik ijodkorlik» jarayoni ichida ijodiy va konstruktorlik jihatdan bir-birini to\u0027ldiradi.\n\nMantiqiy va intuitiv tafakkur: Ilmiy-texnik ijodkorlikda «evrika» lahzasi — birdaniga g\u0027oya paydo bo\u0027lishi — intuitiv tafakkur bilan bog\u0027liq. Ammo bu g\u0027oyani tahlil qilish, hisoblash va sinovdan o\u0027tkazish mantiqiy tafakkurni talab qiladi. Ikki tafakkur turi bir-birini to\u0027ldiradi: intuitiv tafakkur yangi g\u0027oyalarni tug\u0027diradi, mantiqiy tafakkur esa ularni tekshirib, amalda qo\u0027llash imkonini beradi.\n\nBadiiy konstruksiyalash va industrial dizayn: Zamonaviy mahsulot faqat texnik talablarni emas, balki estetik va ergonomik talablarni ham qondirishi kerak. Industrial dizayn — foydalilik + estetika + ergonomikani birlashtiradigan loyihalash yondashuvi. Prototiplash bu jarayonda muhim rol o\u0027ynaydi: xatolarni erta aniqlash va loyihani bosqichma-bosqich yaxshilash imkonini beradi.",
+                   "slideTitles":  [
+                                       "Texnik ob\u0027yektlarni konstruksiyalash va modellashtirish",
+                                       "Texnik loyihalash va modellashtirishning metodlari",
+                                       "Badiiy-modellashtirish va dizayn"
+                                   ]
+               },
+    "glossary":  [
+                     {
+                         "term":  "Texnik ijodkorlik",
+                         "definition":  "Texnik sohada yangi, foydali va amaliy yechimlar yaratish jarayoni."
+                     },
+                     {
+                         "term":  "Konstruksiyalash",
+                         "definition":  "Texnik ob\u0027yektning tuzilishi, qismlari va ulanishlarini loyihalash."
+                     },
+                     {
+                         "term":  "Modellashtirish",
+                         "definition":  "Haqiqiy ob\u0027yektning soddalashtirilgan ko\u0027rinishini yaratib, uning xususiyatlarini o\u0027rganish."
+                     },
+                     {
+                         "term":  "Prototiplash",
+                         "definition":  "Loyihaning dastlabki ishlaydigan yoki ko\u0027rgazmali namunasi (prototip) yasash."
+                     },
+                     {
+                         "term":  "Matematik modellashtirish",
+                         "definition":  "Ob\u0027yekt xususiyatlarini tenglama va algoritmlar orqali ifodalash."
+                     },
+                     {
+                         "term":  "Fizik modellashtirish",
+                         "definition":  "Haqiqiy materiallardan kichraytirilgan yoki o\u0027lchami o\u0027zgartirilgan model yaratish."
+                     },
+                     {
+                         "term":  "Kompyuter modellashtirishi",
+                         "definition":  "CAD, CAE, CAM dasturlari yordamida raqamli model yaratish."
+                     },
+                     {
+                         "term":  "Badiiy konstruksiyalash",
+                         "definition":  "Texnik ob\u0027yektning estetik va ergonomik jihatlarini loyihalash."
+                     },
+                     {
+                         "term":  "Industrial dizayn",
+                         "definition":  "Mahsulotning foydaliligi, chiroyi va qulayligini birlashtirgan loyihalash."
+                     },
+                     {
+                         "term":  "Ergonomika",
+                         "definition":  "Inson omilini (qulaylik, xavfsizlik, fiziologiya) hisobga olgan loyihalash."
+                     },
+                     {
+                         "term":  "Intuitiv tafakkur",
+                         "definition":  "Mantiqsiz, birdaniga «tushunib yetish» orqali yangi g\u0027oya paydo bo\u0027lishi."
+                     },
+                     {
+                         "term":  "Mantiqiy tafakkur",
+                         "definition":  "Bosqichma-bosqich tahlil, deduksiya va isbot orqali yechim topish."
+                     },
+                     {
+                         "term":  "Divergent tafakkur",
+                         "definition":  "Bitta muammoga ko\u0027plab turli-tuman g\u0027oyalarni taklif qilish qobiliyati."
+                     },
+                     {
+                         "term":  "Konvergent tafakkur",
+                         "definition":  "Ko\u0027p g\u0027oyalardan eng to\u0027g\u0027ri va samarali birini tanlash."
+                     },
+                     {
+                         "term":  "Design Thinking",
+                         "definition":  "Foydalanuvchi ehtiyojlariga asoslangan, empatiya + prototiplash + sinov metodologiyasi."
+                     },
+                     {
+                         "term":  "Empatiya (Design Thinkingda)",
+                         "definition":  "Foydalanuvchining his-tuyg\u0027u va ehtiyojlarini chuqur tushunish bosqichi."
+                     },
+                     {
+                         "term":  "Parametrik modellashtirish",
+                         "definition":  "Modelni raqamli parametrlar orqali oson o\u0027zgartirish imkoniyati."
+                     },
+                     {
+                         "term":  "Funksional-modellashtirish",
+                         "definition":  "Faqat ob\u0027yektning asosiy ish printsipi va funksiyalarini aks ettirish."
+                     },
+                     {
+                         "term":  "Iteratsiya",
+                         "definition":  "Loyihani takroriy ravishda sinab ko\u0027rib, har safar yaxshilash jarayoni."
+                     },
+                     {
+                         "term":  "Texnik estetika",
+                         "definition":  "Texnik ob\u0027yektlarda go\u0027zallik va muvofiqlik qoidalarini qo\u0027llash san\u0027ati."
+                     }
+                 ],
+    "crossword":  [
+                      {
+                          "orientation":  "Gorizontal",
+                          "clue":  "Resurslardan oqilona foydalanib, yuqori natijaga erishish darajasi. (12)",
+                          "answer":  "SAMARADORLIK"
+                      },
+                      {
+                          "orientation":  "Vertikal",
+                          "clue":  "Yangi g\u0027oyalar va yechimlar yaratish jarayonini ifodalovchi keng tushuncha. (10)",
+                          "answer":  "IJODKORLIK"
+                      },
+                      {
+                          "orientation":  "Vertikal",
+                          "clue":  "Texnik ob\u0027yektni yaratish uchun reja tuzish va dizayn qilish jarayoni. (10)",
+                          "answer":  "LOYIHALASH"
+                      },
+                      {
+                          "orientation":  "Vertikal",
+                          "clue":  "Inson qulayligi va xavfsizligini ta\u0027minlashga qaratilgan tamoyil. (10)",
+                          "answer":  "ERGONOMIKA"
+                      },
+                      {
+                          "orientation":  "Vertikal",
+                          "clue":  "Mahsulotdan foydalanishda shikastlanishdan himoyalanish holati. (10)",
+                          "answer":  "XAVFSIZLIK"
+                      },
+                      {
+                          "orientation":  "Gorizontal",
+                          "clue":  "Ma\u0027lumotlarni tartibga solish, tahlil qilish va mulohaza yuritish usuli. (8)",
+                          "answer":  "MANTIQIY"
+                      },
+                      {
+                          "orientation":  "Vertikal",
+                          "clue":  "Ong osti tajribasi va sezgilarga asoslangan tezkor fikrlash usuli. (8)",
+                          "answer":  "INTUITIV"
+                      },
+                      {
+                          "orientation":  "Gorizontal",
+                          "clue":  "Insonning fikrlash qobiliyati, bilim va tajribalarni qayta ishlashi. (8)",
+                          "answer":  "TAFAKKUR"
+                      },
+                      {
+                          "orientation":  "Gorizontal",
+                          "clue":  "Loyiha yoki mahsulotga qo\u0027yiladigan shartlar va me\u0027yorlar yig\u0027indisi. (8)",
+                          "answer":  "TALABLAR"
+                      },
+                      {
+                          "orientation":  "Vertikal",
+                          "clue":  "Ob\u0027yektning bajaradigan vazifasi yoki maqsadi. (8)",
+                          "answer":  "FUNKSIYA"
+                      },
+                      {
+                          "orientation":  "Gorizontal",
+                          "clue":  "Mahsulotning tashqi ko\u0027rinishi, go\u0027zallik va jozibadorlik jihatlari. (8)",
+                          "answer":  "ESTETIKA"
+                      },
+                      {
+                          "orientation":  "Vertikal",
+                          "clue":  "Konstruksiya yaratishda ishlatiladigan xomashyo yoki modda. (8)",
+                          "answer":  "MATERIAL"
+                      },
+                      {
+                          "orientation":  "Gorizontal",
+                          "clue":  "Turli elementlar yoki g\u0027oyalarning bir-birini to\u0027ldirishi va mos kelishi. (9)",
+                          "answer":  "UYG\u0027UNLIK"
+                      },
+                      {
+                          "orientation":  "Gorizontal",
+                          "clue":  "Konstruksiyaning geometrik shaklini aks ettiruvchi grafik tasvir. (6)",
+                          "answer":  "CHIZMA"
+                      },
+                      {
+                          "orientation":  "Vertikal",
+                          "clue":  "Ma\u0027lumotlarni chuqur o\u0027rganish va ajratish jarayoni. (6)",
+                          "answer":  "TAHLIL"
+                      },
+                      {
+                          "orientation":  "Gorizontal",
+                          "clue":  "Muammoni bartaraf etish uchun topilgan samarali usul. (6)",
+                          "answer":  "YECHIM"
+                      },
+                      {
+                          "orientation":  "Vertikal",
+                          "clue":  "Ob\u0027yektning soddalashtirilgan nusxasi yoki tasviri. (5)",
+                          "answer":  "MODEL"
+                      },
+                      {
+                          "orientation":  "Vertikal",
+                          "clue":  "Mahsulotning ishlash qobiliyatini tekshirish jarayoni. (5)",
+                          "answer":  "SINOV"
+                      },
+                      {
+                          "orientation":  "Vertikal",
+                          "clue":  "Ijodiy jarayonning boshlang\u0027ich nuqtasi, yangi fikr. (5)",
+                          "answer":  "G\u0027OYA"
+                      }
+                  ],
+    "questions":  [
+                      "Konstruksiyalash tushunchasi qanday izohlanadi va uning texnik ijodkorlikdagi o\u0027rni nimada?",
+                      "Modellashtirish jarayoni texnik tafakkur shakllanishiga qanday ta\u0027sir ko\u0027rsatadi?",
+                      "Texnik loyihalash va modellashtirish orasidagi asosiy farqlar nimalardan iborat?",
+                      "Dizayn tushunchasining badiiy-modellashtirishdagi roli qanday?",
+                      "Texnik loyihalashda qo\u0027llaniladigan asosiy metodlar (analitik, sintez, tizimli yondashuv) nimalar?"
+                  ],
+    "practical":  {
+                      "task":  "Yog\u0027ochdan sodda avtomobil modeli (Chevrolet uslubidagi o\u0027yinchoq mashina) yasash.\n\nAvtomobilning asosiy konstruktiv qismlari va tizimlari haqida chuqur tasavvur hosil qilish maqsadida amaliy mashg\u0027ulot o\u0027tkaziladi. Avtomobilning kuzov turlari: sedan (uch hajmli, NEXIA, LACETTI kabi), universal (ikki hajmli, orqa o\u0027rindiqlar yig\u0027iladi), kupe (ikki eshikli), xetchbek, vagon, kabriolet, jip, pikap, limuzin. O\u0027zbekistonda ishlab chiqariluvchi avtomobillar: UzAuto Motors (Chevrolet), BYD elektromobillari, ADM Jizzakh (Ravon), Silk Road Electric. Zamonaviy raqamli vositalar — Tinkercad, FreeCAD — yordamida 3D modellashtirish ko\u0027nikmalarini ham shakllantiring.",
+                      "requirement":  "**Kerakli materiallar:** Qalinligi 6 mm, 18 mm va 2 mm bo\u0027lgan kontrplak yoki yumshoq yog\u0027och taxtalar; g\u0027ildiraklar uchun yog\u0027och doiralar yoki 5–7 mm diametrli yog\u0027och tayoqchalar (aks uchun); yog\u0027och elim (PVA); zımpara qog\u0027ozi; qo\u0027l arra (lobzik), matkap (7 mm burg\u0027u); chizg\u0027ich, qalam; rangli akril bo\u0027yoqlar (ixtiyoriy); himoya vositalari: qo\u0027lqop, ko\u0027zoynak.\n\n**Topshiriq 1 — kesish:** Chizmani kontrplakka o\u0027tkaz. Belgilangan qalinliklardagi (18 mm asosiy kuzov, 6 mm yuqori qismlar, 2 mm detallar) materiallardan qismlarni lobzik bilan kesib ol. Kerakli joylarga teshik och (7 mm va 5 mm).\n\n**Topshiriq 2 — yig\u0027ish:** Qismlarni elim yordamida yig\u0027 (avval asosiy kuzov, keyin salon va tom). G\u0027ildirak o\u0027qlarini joylashtirib, g\u0027ildiraklarni erkin aylanadigan qilib mahkamla. Elim quriganidan keyin modelni yana zımpara bilan silliqla.\n\n**Ixtiyoriy:** Modelni bo\u0027yab bezash (faralar, derazalar chizish).\n\n**Yakuniy nazorat:** Tayyor modelni namoyish et. Muhokama: qaysi qismda qiyinchilik bo\u0027ldi? Modelning mustahkamligi va aerodinamikasi qanday? Uy vazifasi: modelning 3–4 tarafdan suratini ol va qisqa hisobot yoz."
+                  },
+    "test":  [
+                 {
+                     "question":  "Texnik konstruksiyalash jarayonida asosiy e\u0027tibor qaysi jihatga qaratiladi?",
+                     "options":  [
+                                     "Faqat rang va shaklga",
+                                     "Faqat narxni pasaytirishga",
+                                     "Ishonchlilik, funksionallik va xavfsizlikka",
+                                     "Faqat tez ishlab chiqarishga"
+                                 ],
+                     "correctIndex":  2
+                 },
+                 {
+                     "question":  "Texnik modellashtirishning asosiy maqsadi nima?",
+                     "options":  [
+                                     "Haqiqiy ob\u0027yektni 100% nusxalash",
+                                     "Ob\u0027yektning muhim xususiyatlarini soddalashtirib o\u0027rganish",
+                                     "Faqat chiroyli ko\u0027rinish yaratish",
+                                     "Hech qanday hisob-kitobsiz maket yasash"
+                                 ],
+                     "correctIndex":  1
+                 },
+                 {
+                     "question":  "Quyidagilardan qaysi biri texnik loyihalashning asosiy metodlaridan biri hisoblanadi?",
+                     "options":  [
+                                     "Faqat qo\u0027l bilan chizish",
+                                     "Kompyuterda 3D modellashtirish (CAD)",
+                                     "Faqat rangli qalam bilan bo\u0027yash",
+                                     "Faqat og\u0027zaki tavsif berish"
+                                 ],
+                     "correctIndex":  1
+                 },
+                 {
+                     "question":  "Ilmiy-texnik ijodkorlikda «evrika» lahzasi qaysi tafakkur turi bilan bog\u0027liq?",
+                     "options":  [
+                                     "Faqat mantiqiy",
+                                     "Intuitiv tafakkur",
+                                     "Faqat hisobiy",
+                                     "Faqat takroriy"
+                                 ],
+                     "correctIndex":  1
+                 },
+                 {
+                     "question":  "Mantiqiy tafakkur texnik ijodkorlikda asosan qaysi bosqichda yetakchilik qiladi?",
+                     "options":  [
+                                     "Yangi g\u0027oya paydo bo\u0027lganda",
+                                     "G\u0027oyani tahlil qilish, hisoblash va sinovdan o\u0027tkazishda",
+                                     "Faqat dizayn tanlashda",
+                                     "Faqat mijoz bilan suhbatda"
+                                 ],
+                     "correctIndex":  1
+                 },
+                 {
+                     "question":  "Badiiy konstruksiyalash (industrial dizayn)ning asosiy vazifasi nima?",
+                     "options":  [
+                                     "Faqat texnik talablarni bajarish",
+                                     "Foydalilik + estetika + ergonomikani birlashtirish",
+                                     "Faqat eng arzon material tanlash",
+                                     "Faqat katta hajmda ishlab chiqarish"
+                                 ],
+                     "correctIndex":  1
+                 },
+                 {
+                     "question":  "«Prototiplash» jarayonining eng muhim foydasi nimada?",
+                     "options":  [
+                                     "Darhol ommaviy ishlab chiqarishni boshlash",
+                                     "Xatolarni erta aniqlash va loyihani yaxshilash",
+                                     "Faqat mijozni hayratda qoldirish",
+                                     "Faqat hujjatlar tayyorlash"
+                                 ],
+                     "correctIndex":  1
+                 },
+                 {
+                     "question":  "Divergent tafakkur texnik ijodkorlikda qayerda eng ko\u0027p kerak bo\u0027ladi?",
+                     "options":  [
+                                     "Bitta eng to\u0027g\u0027ri yechimni tanlashda",
+                                     "Imkon qadar ko\u0027proq turli g\u0027oyalarni taklif qilishda",
+                                     "Faqat chizma chizishda",
+                                     "Faqat material hisoblashda"
+                                 ],
+                     "correctIndex":  1
+                 },
+                 {
+                     "question":  "Texnik loyihalashda «parametrik modellashtirish» deganda nimani tushunasiz?",
+                     "options":  [
+                                     "Faqat rang va tekstura berish",
+                                     "O\u0027lchamlar va parametrlar orqali modelni avtomatik o\u0027zgartirish imkoniyati",
+                                     "Faqat qo\u0027lda chizilgan eskiz",
+                                     "Faqat 2D chizma"
+                                 ],
+                     "correctIndex":  1
+                 },
+                 {
+                     "question":  "Design Thinking metodologiyasida eng birinchi va eng muhim bosqich qaysi?",
+                     "options":  [
+                                     "Darhol prototip yasash",
+                                     "Empatiya — foydalanuvchi ehtiyojlarini chuqur tushunish",
+                                     "Darhol ishlab chiqarish",
+                                     "Faqat texnik hujjat tayyorlash"
+                                 ],
+                     "correctIndex":  1
+                 }
+             ],
+    "resources":  [
+                      {
+                          "title":  "2-mavzu taqdimot slaydlari",
+                          "type":  "article",
+                          "description":  "Konstruksiyalash, modellashtirish, mantiqiy/intuitiv tafakkur va badiiy dizayn bo\u0027yicha ma\u0027ruza slaydlari.",
+                          "url":  "assets/materials/topic_2/resurs/2_resurs.pptx"
+                      },
+                      {
+                          "title":  "Texnik konstruksiyalash va modellashtirish asoslari",
+                          "type":  "book",
+                          "description":  "Texnik ob\u0027yektlarni konstruksiyalash, loyihalash metodlari va CAD dasturlari haqida qo\u0027llanma.",
+                          "url":  ""
+                      },
+                      {
+                          "title":  "Design Thinking metodologiyasi",
+                          "type":  "article",
+                          "description":  "Foydalanuvchi ehtiyojlariga asoslangan empatiya, prototiplash va sinov bosqichlari haqida batafsil metodika.",
+                          "url":  ""
+                      }
+                  ]
+}
